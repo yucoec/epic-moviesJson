@@ -7,5 +7,14 @@
     "calidad": "HD",
     "category": "movie",
     "id": 603692
+},
+{
+    "name": "John Wick 1",
+    "descarga": "https://exeo.app/JohnWick4",
+    "online": "https://exe.io/V3RJohnWick4",
+    "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+    "calidad": "HD",
+    "category": "movie",
+    "id": 245891
 }
 ]
