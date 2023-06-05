@@ -1,5 +1,15 @@
 [
     {
+        "name": "Spider-Man: A través del Spider-Verso",
+        "descarga": "https://direct-link.net/813992/v3rspider",
+        "online": "https://direct-link.net/813992/v3rspider",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 569094
+    },
+    {
         "name": "John Wick 4",
         "descarga": "https://exeo.app/JohnWick4",
         "online": "https://exe.io/V3RJohnWick4",
@@ -11,8 +21,8 @@
     },
     {
         "name": "John Wick 1",
-        "descarga": "https://link-target.net/813992/johnwick1",
-        "online": "https://link-hub.net/813992/v3rj0hnwick1",
+        "descarga": "https://exe.io/D3SJ0hnW1ck",
+        "online": "https://exe.io/V3RJ0hnWi1ck",
         "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
