@@ -6,6 +6,38 @@
         "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "tv",
-        "id": 1396
+        "id": 1396,
+        "seasons": [
+            {
+                "season_number": 1,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "descarga": "https://exeo.app/JohnWick4",
+                        "online": "https://exe.io/V3RJohnWick4"
+                    }
+                ]
+            },
+            {
+                "season_number": 2,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "descarga": "https://exeo.app/JohnWick4",
+                        "online": "https://exe.io/V3RJohnWick4"
+                    }
+                ]
+            },
+            {
+                "season_number": 3,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "descarga": "https://exeo.app/JohnWick4",
+                        "online": "https://exe.io/V3RJohnWick4"
+                    }
+                ]
+            }
+        ]
     }
 ]
