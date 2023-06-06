@@ -10,6 +10,16 @@
         "id": 569094
     },
     {
+        "name": "Rápidos y furiosos X",
+        "descarga": "https://exe.io/uRXM6qO",
+        "online": "https://exe.io/pDjhBLJS",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 385687
+    },
+    {
         "name": "John Wick 4",
         "descarga": "https://exeo.app/JohnWick4",
         "online": "https://exe.io/V3RJohnWick4",
