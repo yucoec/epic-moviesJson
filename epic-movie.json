@@ -31,12 +31,12 @@
     },
     {
         "name": "Rápidos y furiosos X",
-        "descarga": "https://exe.io/uRXM6qO",
-        "online": "https://exe.io/pDjhBLJS",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
-        "calidad": "CAM",
+        "descarga": "https://exe.io/01srQ",
+        "online": "https://exe.io/1TlVOq",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
         "category": "movie",
-        "password": false,
+        "password": true,
         "id": 385687
     },
     {
