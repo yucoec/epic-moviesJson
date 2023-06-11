@@ -70,6 +70,16 @@
         "id": 603692
     },
     {
+        "name": "Max",
+        "descarga": "https://exe.io/Hf7EhF",
+        "online": "https://exe.io/Hf7EhF",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 272878
+    },
+    {
         "name": "John Wick 1",
         "descarga": "https://exe.io/D3SJ0hnW1ck",
         "online": "https://exe.io/V3RJ0hnWi1ck",
