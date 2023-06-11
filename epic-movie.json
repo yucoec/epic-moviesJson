@@ -70,6 +70,16 @@
         "id": 603692
     },
     {
+        "name": "Avatar: El camino del agua",
+        "descarga": "https://exe.io/jRNKDNc",
+        "online": "https://exe.io/JuTtq",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 76600
+    },
+    {
         "name": "Max",
         "descarga": "https://exe.io/Hf7EhF",
         "online": "https://exe.io/Hf7EhF",
