@@ -1,5 +1,15 @@
 [
     {
+        "name": "Boogeyman: Tu miedo es real",
+        "descarga": "https://exe.io/6V4Qe",
+        "online": "https://exe.io/fwBi9DQ6",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 532408
+    },
+    {
         "name": "Transformers: El despertar de las bestias",
         "descarga": "https://exe.io/0MOxr",
         "online": "https://exe.io/Ya5vXFTE",
