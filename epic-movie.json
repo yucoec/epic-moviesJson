@@ -60,6 +60,16 @@
         "id": 493529
     },
     {
+        "name": "Guardianes de la Galaxia volumen 3",
+        "descarga": "https://exe.io/0mCF7rj",
+        "online": "https://exe.io/gF3FM",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 447365
+    },
+    {
         "name": "John Wick 4",
         "descarga": "https://exeo.app/JohnWick4",
         "online": "https://exe.io/V3RJohnWick4",
