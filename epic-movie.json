@@ -1,5 +1,15 @@
 [
     {
+        "name": "Hypnotic",
+        "descarga": "https://exe.io/ycpD",
+        "online": "https://exe.io/J2c4qGW",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 536437
+    },
+    {
         "name": "Infinity Pool",
         "descarga": "https://exe.io/XZw5Y",
         "online": "https://exe.io/so7PIM",
