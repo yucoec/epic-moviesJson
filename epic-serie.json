@@ -6,6 +6,7 @@
         "seasons": [
             {
                 "season_number": 1,
+                "id": 62085,
                 "episodes": [
                     {
                         "episode_number": 1,
@@ -16,6 +17,7 @@
             },
             {
                 "season_number": 2,
+                "id": 62086,
                 "episodes": [
                     {
                         "episode_number": 1,
@@ -26,6 +28,7 @@
             },
             {
                 "season_number": 3,
+                "id": 62087,
                 "episodes": [
                     {
                         "episode_number": 1,
