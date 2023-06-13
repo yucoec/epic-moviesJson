@@ -196,7 +196,7 @@
         "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
-        "password": false,
+        "password": true,
         "id": 324552
     },
     {
