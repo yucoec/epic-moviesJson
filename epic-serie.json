@@ -1,18 +1,16 @@
 [
     {
         "name": "Breaking Bad",
-        "descarga": "https://exeo.app/JohnWick4",
-        "online": "https://exe.io/V3RJohnWick4",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
-        "calidad": "HD",
         "category": "tv",
         "id": 1396,
         "seasons": [
             {
                 "season_number": 1,
+                "id": 3572,
                 "episodes": [
                     {
                         "episode_number": 1,
+                        "id": 62085,
                         "descarga": "https://exe.io/tEkxLbj",
                         "online": "https://exe.io/MyU6ttRK"
                     }
@@ -20,9 +18,11 @@
             },
             {
                 "season_number": 2,
+                "id": 3573,
                 "episodes": [
                     {
                         "episode_number": 1,
+                        "id": 972873,
                         "descarga": "https://exeo.app/JohnWick4",
                         "online": "https://exe.io/V3RJohnWick4"
                     }
@@ -30,9 +30,11 @@
             },
             {
                 "season_number": 3,
+                "id": 3575,
                 "episodes": [
                     {
                         "episode_number": 1,
+                        "id": 62105,
                         "descarga": "https://exeo.app/JohnWick4",
                         "online": "https://exe.io/V3RJohnWick4"
                     }
