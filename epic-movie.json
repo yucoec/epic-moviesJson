@@ -100,9 +100,19 @@
         "id": 76600
     },
     {
+        "name": "Spider-Man: Un Nuevo Universo",
+        "descarga": "https://exe.io/mmukx",
+        "online": "https://exe.io/xpFwevH",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 324857
+    },
+    {
         "name": "Max",
         "descarga": "https://exe.io/Hf7EhF",
-        "online": "https://exe.io/Hf7EhF",
+        "online": "https://exe.io/yvp2qdI",
         "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
