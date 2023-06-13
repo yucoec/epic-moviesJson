@@ -100,6 +100,16 @@
         "id": 76600
     },
     {
+        "name": "Ant-Man and the Wasp: Quantumania",
+        "descarga": "https://exe.io/ybvj8",
+        "online": "https://exe.io/mW7BNX",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 640146
+    },
+    {
         "name": "Spider-Man: Un Nuevo Universo",
         "descarga": "https://exe.io/mmukx",
         "online": "https://exe.io/xpFwevH",
