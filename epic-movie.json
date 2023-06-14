@@ -1,9 +1,18 @@
 [
     {
         "name": "Culpa mía",
-        "descarga": "https://exe.io/ZtQalC3p",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/ZtQalC3p",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/HYayMw",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -11,9 +20,18 @@
     },
     {
         "name": "Hypnotic",
-        "descarga": "https://exe.io/ycpD",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "link": "https://exe.io/ycpD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/J2c4qGW",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "CAM",
         "category": "movie",
         "password": false,
@@ -21,9 +39,18 @@
     },
     {
         "name": "Infinity Pool",
-        "descarga": "https://exe.io/XZw5Y",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/XZw5Y",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/so7PIM",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -31,9 +58,18 @@
     },
     {
         "name": "Boogeyman: Tu miedo es real",
-        "descarga": "https://exe.io/6V4Qe",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "link": "https://exe.io/6V4Qe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/fwBi9DQ6",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "CAM",
         "category": "movie",
         "password": false,
@@ -41,9 +77,18 @@
     },
     {
         "name": "Transformers: El despertar de las bestias",
-        "descarga": "https://exe.io/0MOxr",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "TS-HQ",
+                        "link": "https://exe.io/0MOxr",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/Ya5vXFTE",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "TS-HQ",
         "category": "movie",
         "password": false,
@@ -51,9 +96,18 @@
     },
     {
         "name": "Bumblebee",
-        "descarga": "https://exe.io/jpromIAV",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/jpromIAV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/vI8tXNJ",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -61,9 +115,18 @@
     },
     {
         "name": "Transformers 5: El Ultimo Caballero",
-        "descarga": "https://exe.io/tqRv1",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/tqRv1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/QO9wAu",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -71,9 +134,18 @@
     },
     {
         "name": "Transformers 4: La Era de la Extinción",
-        "descarga": "https://exe.io/IQO7RLeP",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/IQO7RLeP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/2IkSH",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -81,9 +153,18 @@
     },
     {
         "name": "Transformers 3: El Lado Oscuro de la Luna",
-        "descarga": "https://exe.io/FDJF3y",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/FDJF3y",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/gPJ1XSN",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -91,9 +172,18 @@
     },
     {
         "name": "Transformers 2: La Venganza de los Caídos",
-        "descarga": "https://exe.io/Cm1ZwyoK",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/Cm1ZwyoK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/3dAaVa",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -101,9 +191,18 @@
     },
     {
         "name": "Transformers",
-        "descarga": "https://exe.io/KgVBnk",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/KgVBnk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/YCOXrGX",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -111,9 +210,18 @@
     },
     {
         "name": "La sirenita",
-        "descarga": "https://exe.io/S1R3N1T4",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "TS-HQ",
+                        "link": "https://exe.io/S1R3N1T4",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/V3RS1R3N1T4",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "TS-HQ",
         "category": "movie",
         "password": false,
@@ -121,9 +229,18 @@
     },
     {
         "name": "Spider-Man: A través del Spider-Verso",
-        "descarga": "https://exe.io/QT8r0",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "TS-HQ",
+                        "link": "https://exe.io/QT8r0",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/fbUUUD9",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "TS-HQ",
         "category": "movie",
         "password": false,
@@ -140,7 +257,7 @@
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
                     },
                     {
-                        "qualityName": "1080p Latino",
+                        "qualityName": "1080p Latino - Ingles",
                         "link": "https://exe.io/01srQ",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
                     }
@@ -148,7 +265,7 @@
             }
         ],
         "online": "https://exe.io/1TlVOq",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
         "category": "movie",
         "password": true,
         "id": 385687
@@ -156,8 +273,18 @@
     {
         "name": "Super Mario Bros. La película",
         "descarga": "https://exe.io/RMxE0kT",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/RMxE0kT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/yMqYMoS",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -165,9 +292,18 @@
     },
     {
         "name": "Calabozos & Dragones: Honor entre ladrones",
-        "descarga": "https://exe.io/g41wRJ2u",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/g41wRJ2u",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/UxKUkE",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -175,9 +311,18 @@
     },
     {
         "name": "Guardianes de la Galaxia volumen 3",
-        "descarga": "https://exe.io/0mCF7rj",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "link": "https://exe.io/0mCF7rj",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/gF3FM",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "CAM",
         "category": "movie",
         "password": false,
@@ -185,9 +330,18 @@
     },
     {
         "name": "Renfield: Asistente de vampiro",
-        "descarga": "https://exe.io/8e8XRq7k",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/8e8XRq7k",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/bvStw",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -195,9 +349,18 @@
     },
     {
         "name": "El exorcista del Papa",
-        "descarga": "https://exe.io/l5ipvUJ",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/l5ipvUJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/zf5QGZUc",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -205,9 +368,18 @@
     },
     {
         "name": "Evil Dead: El despertar",
-        "descarga": "https://exe.io/EFVCXEaI",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/EFVCXEaI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/aNM0Qs",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -215,9 +387,18 @@
     },
     {
         "name": "Ghosteado",
-        "descarga": "https://exe.io/RPyv5",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/RPyv5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/CAVD1",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -225,9 +406,18 @@
     },
     {
         "name": "John Wick 4",
-        "descarga": "https://exeo.app/JohnWick4",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exeo.app/JohnWick4",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/V3RJohnWick4",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -235,9 +425,18 @@
     },
     {
         "name": "Ant-Man and the Wasp: Quantumania",
-        "descarga": "https://exe.io/ybvj8",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/ybvj8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/mW7BNX",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -245,9 +444,18 @@
     },
     {
         "name": "Avatar: El camino del agua",
-        "descarga": "https://exe.io/jRNKDNc",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/jRNKDNc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/JuTtq",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -255,9 +463,18 @@
     },
     {
         "name": "Un vecino gruñón",
-        "descarga": "https://exe.io/RJng75",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/RJng75",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/AMLlfWnR",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -265,9 +482,18 @@
     },
     {
         "name": "John Wick 3: Parabellum",
-        "descarga": "https://exe.io/mmukx",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/4h3l2",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/xpFwevH",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -275,9 +501,18 @@
     },
     {
         "name": "Spider-Man: Un Nuevo Universo",
-        "descarga": "https://exe.io/mmukx",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/mmukx",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/xpFwevH",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -285,9 +520,18 @@
     },
     {
         "name": "John Wick 2: Un nuevo día para matar",
-        "descarga": "https://exe.io/4h3l2",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/1ijruhM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/LP4Jzct",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
@@ -295,9 +539,18 @@
     },
     {
         "name": "Max",
-        "descarga": "https://exe.io/Hf7EhF",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/Hf7EhF",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/yvp2qdI",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": false,
@@ -305,9 +558,18 @@
     },
     {
         "name": "John Wick 1",
-        "descarga": "https://exe.io/D3SJ0hnW1ck",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "link": "https://exe.io/D3SJ0hnW1ck",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/V3RJ0hnWi1ck",
-        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
         "category": "movie",
         "password": true,
