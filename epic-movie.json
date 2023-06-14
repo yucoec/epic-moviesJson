@@ -1,5 +1,25 @@
 [
     {
+        "name": "Sisu",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino ",
+                        "peso": "1.81 GB",
+                        "link": "https://exe.io/vq2qwA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/wMDqX",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 157336
+    },
+    {
         "name": "Interestelar",
         "descarga": [
             {
