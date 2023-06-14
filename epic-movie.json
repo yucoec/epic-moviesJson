@@ -50,6 +50,66 @@
         "id": 667538
     },
     {
+        "name": "Bumblebee",
+        "descarga": "https://exe.io/jpromIAV",
+        "online": "https://exe.io/vI8tXNJ",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 424783
+    },
+    {
+        "name": "Transformers 5: El Ultimo Caballero",
+        "descarga": "https://exe.io/tqRv1",
+        "online": "https://exe.io/QO9wAu",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 335988
+    },
+    {
+        "name": "Transformers 4: La Era de la Extinción",
+        "descarga": "https://exe.io/IQO7RLeP",
+        "online": "https://exe.io/2IkSH",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 91314
+    },
+    {
+        "name": "Transformers 3: El Lado Oscuro de la Luna",
+        "descarga": "https://exe.io/FDJF3y",
+        "online": "https://exe.io/gPJ1XSN",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 38356
+    },
+    {
+        "name": "Transformers 2: La Venganza de los Caídos",
+        "descarga": "https://exe.io/Cm1ZwyoK",
+        "online": "https://exe.io/3dAaVa",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 8373
+    },
+    {
+        "name": "Transformers",
+        "descarga": "https://exe.io/KgVBnk",
+        "online": "https://exe.io/YCOXrGX",
+        "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 1858
+    },
+    {
         "name": "La sirenita",
         "descarga": "https://exe.io/S1R3N1T4",
         "online": "https://exe.io/V3RS1R3N1T4",
