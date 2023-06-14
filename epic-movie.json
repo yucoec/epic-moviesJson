@@ -131,7 +131,24 @@
     },
     {
         "name": "Rápidos y furiosos X",
-        "descarga": "https://exe.io/01srQ",
+        "descarga": [
+            {
+                "dvdrip": [
+                    {
+                        "quality": "DVDRip Latino",
+                        "link": "https://exe.io/ZVF4",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ],
+                "1080p": [
+                    {
+                        "quality": "1080p Latino",
+                        "link": "https://exe.io/01srQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
         "online": "https://exe.io/1TlVOq",
         "imagenBoton": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
         "calidad": "HD",
