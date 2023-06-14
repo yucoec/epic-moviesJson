@@ -30,6 +30,7 @@
                     },
                     {
                         "qualityName": "REMUX 4k Latino - Ingles",
+                        "peso": "66.14 GB",
                         "link": "https://exe.io/OlWdi",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
                     }
@@ -37,7 +38,7 @@
             }
         ],
         "online": "https://exe.io/1TlVOq",
-        "calidad": "4k",
+        "calidad": "4K",
         "category": "movie",
         "password": true,
         "id": 157336
