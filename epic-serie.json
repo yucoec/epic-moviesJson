@@ -12,7 +12,9 @@
                         "episode_number": 1,
                         "id": 62085,
                         "descarga": "https://exe.io/tEkxLbj",
-                        "online": "https://exe.io/MyU6ttRK"
+                        "online": "https://exe.io/MyU6ttRK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png",
+                        "password": false
                     }
                 ]
             },
