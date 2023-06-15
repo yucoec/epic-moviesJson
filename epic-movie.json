@@ -359,12 +359,17 @@
                         "qualityName": "TS-HQ",
                         "link": "https://exe.io/QT8r0",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "HDRIP 1080p",
+                        "link": "https://exe.io/rm1M68",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
                     }
                 ]
             }
         ],
         "online": "https://exe.io/fbUUUD9",
-        "calidad": "TS-HQ",
+        "calidad": "HDRIP",
         "category": "movie",
         "password": false,
         "id": 569094
