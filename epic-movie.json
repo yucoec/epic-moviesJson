@@ -64,7 +64,7 @@
         "id": 298618
     },
     {
-        "name": "Dragon Ball: Toriko One Piece Y DBZ Especial colaboracion",
+        "name": "Black Clover: La espada del rey mago",
         "descarga": [
             {
                 "quality": [
@@ -82,6 +82,44 @@
         "category": "movie",
         "password": true,
         "id": 188070
+    },
+    {
+        "name": "Dragon Ball: Toriko One Piece Y DBZ Especial colaboracion",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVDRip Latino",
+                        "peso": "925 MB",
+                        "link": "https://exe.io/iegF8bZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.16 GB",
+                        "link": "https://exe.io/Tfuur1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.82 GB",
+                        "link": "https://exe.io/mc7Yz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Japones",
+                        "peso": "5.88 GB",
+                        "link": "https://exe.io/HNk7l1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/48ctR68",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 812225
     },
     {
         "name": "Beau tiene miedo",
