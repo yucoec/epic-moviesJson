@@ -1,5 +1,25 @@
 [
     {
+        "name": "Flash",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "513 MB",
+                        "link": "https://exe.io/Zj8Lz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/3SCaPh",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 298618
+    },
+    {
         "name": "Beau tiene miedo",
         "descarga": [
             {
