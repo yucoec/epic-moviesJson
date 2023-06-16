@@ -1,5 +1,49 @@
 [
     {
+        "name": "Misión de rescate 2",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVDRip Latino",
+                        "peso": "740 MB",
+                        "link": "https://exe.io/MZegmV1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.09 GB",
+                        "link": "https://exe.io/adYYBJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.83 GB",
+                        "link": "https://exe.io/w0R59tpu",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Japones",
+                        "peso": "6.13 GB",
+                        "link": "https://exe.io/QCVU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4K Latino - Japones",
+                        "peso": "17.7 GB",
+                        "link": "https://exe.io/sJfR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/bPV4l8g",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": true,
+        "id": 697843
+    },
+    {
         "name": "Flash",
         "descarga": [
             {
