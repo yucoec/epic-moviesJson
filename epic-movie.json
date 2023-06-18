@@ -1,5 +1,37 @@
 [
     {
+        "name": "La Madre",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVDRip Latino",
+                        "peso": "340 MB",
+                        "link": "https://exe.io/FWVWJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "729 MB",
+                        "link": "https://exe.io/N7Vq",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.77 GB",
+                        "link": "https://exe.io/K0eD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/j1XWj",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 552688
+    },
+    {
         "name": "Misión de rescate 2",
         "descarga": [
             {
