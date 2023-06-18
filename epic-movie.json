@@ -55,13 +55,13 @@
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
                     },
                     {
-                        "qualityName": "WEB-DL 1080p Latino - Japones",
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
                         "peso": "6.13 GB",
                         "link": "https://exe.io/QCVU",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
                     },
                     {
-                        "qualityName": "WEB-DL 4K Latino - Japones",
+                        "qualityName": "WEB_DL 4k Latino - Ingles",
                         "peso": "17.7 GB",
                         "link": "https://exe.io/sJfR",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
@@ -107,13 +107,13 @@
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
                     },
                     {
-                        "qualityName": "720p Latino - Ingles",
+                        "qualityName": "720p Latino - Japones",
                         "peso": "1.16 GB",
                         "link": "https://exe.io/Tfuur1",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
                     },
                     {
-                        "qualityName": "1080p Latino - Ingles",
+                        "qualityName": "1080p Latino - Japones",
                         "peso": "2.82 GB",
                         "link": "https://exe.io/mc7Yz",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
@@ -159,18 +159,42 @@
             {
                 "quality": [
                     {
-                        "qualityName": "HD Latino ",
-                        "peso": "2.93 GB",
-                        "link": "https://exe.io/GmQhH3h",
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "578 MB",
+                        "link": "https://exe.io/i7GZ7G",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.20 GB",
+                        "link": "https://exe.io/QknqiqW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.05 GB",
+                        "link": "https://exe.io/vhnKwvPB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "9.29 GB",
+                        "link": "https://exe.io/suvpoU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "WEB_DL 4k Latino - Ingles",
+                        "peso": "19.9 GB",
+                        "link": "https://exe.io/P5bpjae",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
                     }
                 ]
             }
         ],
         "online": "https://exe.io/GFQAU",
-        "calidad": "HD",
+        "calidad": "4K",
         "category": "movie",
-        "password": false,
+        "password": true,
         "id": 798286
     },
     {
