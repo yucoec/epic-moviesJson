@@ -220,8 +220,350 @@
                     {
                         "episode_number": 1,
                         "id": 62105,
-                        "descarga": "https://exeo.app/JohnWick4",
-                        "online": "https://exe.io/V3RJohnWick4"
+                        "descarga": "https://exe.io/NAI4T42",
+                        "online": "https://exe.io/vI8R3HCq",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 62106,
+                        "descarga": "https://exe.io/Jas44l",
+                        "online": "https://exe.io/jYQIwJ8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 62107,
+                        "descarga": "https://exe.io/xMXVE",
+                        "online": "https://exe.io/sLny8p",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 62108,
+                        "descarga": "https://exe.io/gTOHx",
+                        "online": "https://exe.io/ctiNFjY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 62109,
+                        "descarga": "https://exe.io/E6UvV3",
+                        "online": "https://exe.io/bE0KoPn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 62110,
+                        "descarga": "https://exe.io/Nl1Fw",
+                        "online": "https://exe.io/5n194hp4",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 62111,
+                        "descarga": "https://exe.io/5f4dM",
+                        "online": "https://exe.io/M1m2nmOI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 62112,
+                        "descarga": "https://exe.io/e3TI72v",
+                        "online": "https://exe.io/w4lBLNDh",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 62113,
+                        "descarga": "https://exe.io/9TYKw",
+                        "online": "https://exe.io/lxAFXbQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 62114,
+                        "descarga": "https://exe.io/dXRjv",
+                        "online": "https://exe.io/LItRA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 11,
+                        "id": 62115,
+                        "descarga": "https://exe.io/YhhfvuJN",
+                        "online": "https://exe.io/tHCy1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 12,
+                        "id": 62116,
+                        "descarga": "https://exe.io/nyo39dow",
+                        "online": "https://exe.io/TH9vXXN",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 13,
+                        "id": 62117,
+                        "descarga": "https://exe.io/f9ICLuwU",
+                        "online": "https://exe.io/jMvd",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    }
+                ]
+            },
+            {
+                "season_number": 4,
+                "id": 3576,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 62118,
+                        "descarga": "https://exe.io/bSgmZemQ",
+                        "online": "https://exe.io/F3uWt",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 62119,
+                        "descarga": "https://exe.io/W22ZXf",
+                        "online": "https://exe.io/5ELkmohO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 62120,
+                        "descarga": "https://exe.io/yrkveTn",
+                        "online": "https://exe.io/la5hD4h",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 62122,
+                        "descarga": "https://exe.io/IaHYN",
+                        "online": "https://exe.io/q1zLv",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 62123,
+                        "descarga": "https://exe.io/JeOj2z",
+                        "online": "https://exe.io/vfX5SwN",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 62124,
+                        "descarga": "https://exe.io/XR28XXL",
+                        "online": "https://exe.io/8lCNc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 62121,
+                        "descarga": "https://exe.io/fa1lFXT",
+                        "online": "https://exe.io/Wd5BW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 62127,
+                        "descarga": "https://exe.io/EfyNU86",
+                        "online": "https://exe.io/SsKX66N",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 62125,
+                        "descarga": "https://exe.io/hObacQq8",
+                        "online": "https://exe.io/RnZRGtnc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 62126,
+                        "descarga": "https://exe.io/Dfnd0to",
+                        "online": "https://exe.io/U3ohcrT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 11,
+                        "id": 62129,
+                        "descarga": "https://exe.io/6yjv4",
+                        "online": "https://exe.io/QwB2dk1A",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 12,
+                        "id": 62128,
+                        "descarga": "https://exe.io/kXjn52",
+                        "online": "https://exe.io/OveVam",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 13,
+                        "id": 62130,
+                        "descarga": "https://exe.io/mitwhB7c",
+                        "online": "https://exe.io/bwtDSpg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    }
+                ]
+            },
+            {
+                "season_number": 5,
+                "id": 3578,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 62147,
+                        "descarga": "https://exe.io/foFu3R",
+                        "online": "https://exe.io/8N9fyD90",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 62148,
+                        "descarga": "https://exe.io/N0ysesE5",
+                        "online": "https://exe.io/fB2ztUK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 62149,
+                        "descarga": "https://exe.io/EgofAa",
+                        "online": "https://exe.io/ZwTxVoCY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 62150,
+                        "descarga": "https://exe.io/xBuZD",
+                        "online": "https://exe.io/CX6iLoi",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 62151,
+                        "descarga": "https://exe.io/3i2Hu0a2",
+                        "online": "https://exe.io/DHoDf",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 62152,
+                        "descarga": "https://exe.io/AFErN6Xh",
+                        "online": "https://exe.io/gs5i",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 62153,
+                        "descarga": "https://exe.io/FETnbgpK",
+                        "online": "https://exe.io/feSvg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 62154,
+                        "descarga": "https://exe.io/SbWKsQ",
+                        "online": "https://exe.io/TWuLds",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 62155,
+                        "descarga": "https://exe.io/9pOW8PAp",
+                        "online": "https://exe.io/SOURm",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 62156,
+                        "descarga": "https://exe.io/OEhrJL7E",
+                        "online": "https://exe.io/NvAB8p",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 11,
+                        "id": 62159,
+                        "descarga": "https://exe.io/WE4Xi",
+                        "online": "https://exe.io/pQLhT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 12,
+                        "id": 62158,
+                        "descarga": "https://exe.io/DxzrJCb",
+                        "online": "https://exe.io/p3vSPRz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 13,
+                        "id": 62157,
+                        "descarga": "https://exe.io/4w4UHjb",
+                        "online": "https://exe.io/5zvCc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 14,
+                        "id": 62162,
+                        "descarga": "https://exe.io/dQJ2JoYk",
+                        "online": "https://exe.io/O0fLi0",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 15,
+                        "id": 62160,
+                        "descarga": "https://exe.io/8oLt6",
+                        "online": "https://exe.io/bo9FOX",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 16,
+                        "id": 62161,
+                        "descarga": "https://exe.io/3upSvU",
+                        "online": "https://exe.io/kk1N45",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": false
                     }
                 ]
             }
