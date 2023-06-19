@@ -1,5 +1,25 @@
 [
     {
+        "name": "Brightburn: Hijo de la oscuridad",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.35 GB",
+                        "link": "https://exe.io/5t8ua37i",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/NX78W",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 531309
+    },
+    {
         "name": "La Madre",
         "descarga": [
             {
