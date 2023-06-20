@@ -1,5 +1,45 @@
 [
     {
+        "name": "El Pacto",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.84 GB",
+                        "link": "https://exe.io/jMCk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/HpTjp",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 882569
+    },
+    {
+        "name": "Demonio negro",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "1.86 GB",
+                        "link": "https://exe.io/kKrtfQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/ugktwy",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 890771
+    },
+    {
         "name": "Brightburn: Hijo de la oscuridad",
         "descarga": [
             {
@@ -94,6 +134,38 @@
         "category": "movie",
         "password": true,
         "id": 697843
+    },
+    {
+        "name": "Misión de rescate",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVDRip Latino",
+                        "peso": "959 MB",
+                        "link": "https://exe.io/dQJy9xzI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.53GB",
+                        "link": "https://exe.io/Sg9gM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.59 GB",
+                        "link": "https://exe.io/9wwLxAC",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/xklMU",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 545609
     },
     {
         "name": "Flash",
@@ -610,15 +682,40 @@
             {
                 "quality": [
                     {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.03 GB",
+                        "link": "https://exe.io/LFs1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.59 GB",
+                        "link": "https://exe.io/hQ8V6sJf",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
                         "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.72 GB",
                         "link": "https://exe.io/RMxE0kT",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "REMUX 1080p Latino - Ingles",
+                        "peso": "24.9 GB",
+                        "link": "https://exe.io/twWHT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "REMUX 4k Latino - Ingles",
+                        "peso": "58.8 GB",
+                        "link": "https://exe.io/HlH0",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
                     }
                 ]
             }
         ],
         "online": "https://exe.io/yMqYMoS",
-        "calidad": "HD",
+        "calidad": "4K",
         "category": "movie",
         "password": true,
         "id": 502356
@@ -743,15 +840,40 @@
             {
                 "quality": [
                     {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "674 MB",
+                        "link": "https://exe.io/bgKJz7T",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.70 GB",
+                        "link": "https://exe.io/VPhgGxk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
                         "qualityName": "1080p Latino - Ingles",
+                        "peso": "3.39 GB",
                         "link": "https://exeo.app/JohnWick4",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "9.42 GB",
+                        "link": "https://exe.io/0Fk7kvxR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "19.31 GB",
+                        "link": "https://exe.io/iytg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
                     }
                 ]
             }
         ],
         "online": "https://exe.io/V3RJohnWick4",
-        "calidad": "HD",
+        "calidad": "4K",
         "category": "movie",
         "password": true,
         "id": 603692
