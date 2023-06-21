@@ -1,5 +1,25 @@
 [
     {
+        "name": "Flamin' Hot: El sabor que cambió la historia",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "802 MB",
+                        "link": "https://exe.io/kn8iod9",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/ze0X4jk",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 626332
+    },
+    {
         "name": "Gato con Botas: El último deseo",
         "descarga": [
             {
