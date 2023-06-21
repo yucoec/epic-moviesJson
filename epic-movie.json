@@ -1,5 +1,25 @@
 [
     {
+        "name": "Todo sobre mi padre",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "802 MB",
+                        "link": "https://exe.io/cUZng8nZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://exe.io/3AkFM8",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 829051
+    },
+    {
         "name": "Flamin' Hot: El sabor que cambió la historia",
         "descarga": [
             {
