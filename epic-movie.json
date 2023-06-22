@@ -5,16 +5,16 @@
             {
                 "quality": [
                     {
-                        "qualityName": "HDCAM",
-                        "peso": "2.55 GB",
-                        "link": "https://exe.io/GWyWt",
+                        "qualityName": "CAM",
+                        "peso": "1.76 GB",
+                        "link": "https://exe.io/kGVy6GzT",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png"
                     }
                 ]
             }
         ],
-        "online": "https://exe.io/sWKjb",
-        "calidad": "HDCAM",
+        "online": "https://exe.io/cLJiz3",
+        "calidad": "CAM",
         "category": "movie",
         "password": false,
         "id": 976573
