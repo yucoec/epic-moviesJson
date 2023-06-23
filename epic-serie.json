@@ -1879,6 +1879,192 @@
                         "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
                     }
                 ]
+            },
+            {
+                "season_number": 8,
+                "id": 199286,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3027725,
+                        "descarga": "https://exe.io/Q0ONd",
+                        "online": "https://exe.io/PQNo9zv5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3327846,
+                        "descarga": "https://exe.io/BNDFIu",
+                        "online": "https://exe.io/JT9TM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3336506,
+                        "descarga": "https://exe.io/dMk4x",
+                        "online": "https://exe.io/pccQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 3345587,
+                        "descarga": "https://exe.io/3TLmeNIK",
+                        "online": "https://exe.io/eIhMjTOs",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 3348517,
+                        "descarga": "https://exe.io/lAOV4m",
+                        "online": "https://exe.io/uhsYFD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 3348518,
+                        "descarga": "https://exe.io/9Rpiwb",
+                        "online": "https://exe.io/nPKhdS6",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 3458384,
+                        "descarga": "https://exe.io/mMeXrD",
+                        "online": "https://exe.io/WpQyydo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 3538758,
+                        "descarga": "https://exe.io/6vHJ",
+                        "online": "https://exe.io/RS5YQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 3589433,
+                        "descarga": "https://exe.io/X7nQHj",
+                        "online": "https://exe.io/jvhebp",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 3603429,
+                        "descarga": "https://exe.io/YvIpN",
+                        "online": "https://exe.io/SpvMp3N",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 11,
+                        "id": 3620514,
+                        "descarga": "https://exe.io/SSGgJ02",
+                        "online": "https://exe.io/2mqVTlJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 12,
+                        "id": 3652957,
+                        "descarga": "https://exe.io/wcBNRY",
+                        "online": "https://exe.io/2j8k",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 13,
+                        "id": 3658949,
+                        "descarga": "https://exe.io/J1B7ZUCd",
+                        "online": "https://exe.io/HRGP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 14,
+                        "id": 3678373,
+                        "descarga": "https://exe.io/TqSeyBvu",
+                        "online": "https://exe.io/i5v8U",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 15,
+                        "id": 3691682,
+                        "descarga": "https://exe.io/YMBexv",
+                        "online": "https://exe.io/swa446n",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 16,
+                        "id": 3704731,
+                        "descarga": "https://exe.io/ojLUNAcg",
+                        "online": "https://exe.io/SLWR6v",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 17,
+                        "id": 3733388,
+                        "descarga": "https://exe.io/xrwabAcx",
+                        "online": "https://exe.io/ZWRHUuH",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 18,
+                        "id": 3733397,
+                        "descarga": "https://exe.io/8UKto",
+                        "online": "https://exe.io/nMSlw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 19,
+                        "id": 3759991,
+                        "descarga": "https://exe.io/acBo",
+                        "online": "https://exe.io/ddcQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 20,
+                        "id": 3759999,
+                        "descarga": "https://exe.io/g1BRw",
+                        "online": "https://exe.io/0jj8xe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.png",
+                        "password": true,
+                        "isEpisode_pack": false
+                    }
+                ]
             }
         ]
     },
