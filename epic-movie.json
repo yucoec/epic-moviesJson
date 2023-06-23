@@ -1,5 +1,25 @@
 [
     {
+        "name": "El Monasterio",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.08 GB",
+                        "link": "https://exe.io/BNdaH00e",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/VO1sPeN",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 524789
+    },
+    {
         "name": "Elementos",
         "descarga": [
             {
