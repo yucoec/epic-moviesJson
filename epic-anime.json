@@ -1,0 +1,21 @@
+{
+    "name": "Baki",
+    "category": "tv",
+    "id": 80623,
+    "seasons": [
+        {
+            "season_number": 1,
+            "id": 105921,
+            "episodes": [
+                {
+                    "episode_number": 1,
+                    "id": 1515678,
+                    "descarga": "https://cuty.io/qixrG",
+                    "online": "https: //cuty.io/3RnRWvG",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp",
+                    "password": true
+                }
+            ]
+        }
+    ]
+}
