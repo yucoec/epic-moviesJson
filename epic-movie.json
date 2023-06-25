@@ -1,5 +1,49 @@
 [
     {
+        "name": "Tetris",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "587 MB",
+                        "link": "https://cuty.io/Tt9RiF3kw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.19 GB",
+                        "link": "https://cuty.io/MDpTLf",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.61 GB",
+                        "link": "https://cuty.io/iUYVT9pdbs",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "BLU-RAY WEB-DL 1080p Latino - Ingles",
+                        "peso": "9.56 GB",
+                        "link": "https://cuty.io/CFfApuDkWI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "4K 216p Latino - Ingles",
+                        "peso": "21.32 GB",
+                        "link": "https://cuty.io/Udp7G",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/DoL1gieipkcL",
+        "calidad": "HD",
+        "category": "movie",
+        "password": true,
+        "id": 726759
+    },
+    {
         "name": "Gravedad",
         "descarga": [
             {
