@@ -781,12 +781,18 @@
                         "qualityName": "TS-HQ",
                         "link": "https://exe.io/0MOxr",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
+                    },
+                    {
+                        "qualityName": "TELESYNC 1080P",
+                        "peso": "8.52 GB",
+                        "link": "https://cuty.io/v9OV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.png"
                     }
                 ]
             }
         ],
         "online": "https://exe.io/Ya5vXFTE",
-        "calidad": "TS-HQ",
+        "calidad": "TELESYNC 1080P",
         "category": "movie",
         "password": false,
         "id": 667538
