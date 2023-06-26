@@ -1,5 +1,25 @@
 [
     {
+        "name": "Mi nombre es Khan",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "747 MB",
+                        "link": "https://cuty.io/8ovPs4RP",
+                        "btn": "https://streamsb.com/d5/images/logo.svg"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/7PazsiCkkmY",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 26022
+    },
+    {
         "name": "Tetris",
         "descarga": [
             {
