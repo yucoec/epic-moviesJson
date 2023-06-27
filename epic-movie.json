@@ -1,5 +1,49 @@
 [
     {
+        "name": "Los Caballeros del Zodiaco: Saint Seiya - El inicio",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVDRip Latino",
+                        "peso": "816 MB",
+                        "link": "https://cuty.io/vRWeDe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.43 GB",
+                        "link": "https://cuty.io/gDDa7",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.94 GB",
+                        "link": "https://cuty.io/qitNuuKPXRMo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "5.79 GB",
+                        "link": "https://cuty.io/baerCpH5PoB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "19.29 GB",
+                        "link": "https://cuty.io/yFttAc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/aRs2BjXmEw",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 455476
+    },
+    {
         "name": "El mejor del mundo",
         "descarga": [
             {
