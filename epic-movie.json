@@ -1,5 +1,37 @@
 [
     {
+        "name": "El Conjuro",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVDRip Latino",
+                        "peso": "728 MB",
+                        "link": "https://cuty.io/CYMHTl",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.26 GB",
+                        "link": "https://cuty.io/5SwJZpaK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.31 GB",
+                        "link": "https://cuty.io/waoqxlZ40tJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/hvr3utXPMbH",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 138843
+    },
+    {
         "name": "Los Caballeros del Zodiaco: Saint Seiya - El inicio",
         "descarga": [
             {
