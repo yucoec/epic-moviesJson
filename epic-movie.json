@@ -1,5 +1,37 @@
 [
     {
+        "name": "El Conjuro 3: El Diablo me Obligó a Hacerlo",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVDRip Latino",
+                        "peso": "823 MB",
+                        "link": "https://cuty.io/xydfPx7H0b",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.67 GB",
+                        "link": "https://cuty.io/u7JocjFl",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.44 GB",
+                        "link": "https://cuty.io/uRlkz0WIOg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/SeNiJh",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 423108
+    },
+    {
         "name": "El Conjuro 2",
         "descarga": [
             {
