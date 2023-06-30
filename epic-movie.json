@@ -1,5 +1,57 @@
 [
     {
+        "name": "Indiana Jones y el dial del destino",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "1.18 GB",
+                        "link": "https://cuty.io/tarfbzt9T",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/0pqz",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 335977
+    },
+    {
+        "name": "Matrix",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "680 MB",
+                        "link": "https://cuty.io/BKAHljVA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.92 GB",
+                        "link": "https://cuty.io/4frxBF",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.94 GB",
+                        "link": "https://cuty.io/YASNfORNO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/jMStL0s2",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 603
+    },
+    {
         "name": "Matrix",
         "descarga": [
             {
@@ -306,7 +358,7 @@
             }
         ],
         "online": "https://cuty.io/DoL1gieipkcL",
-        "calidad": "HD",
+        "calidad": "4K",
         "category": "movie",
         "password": true,
         "id": 726759
