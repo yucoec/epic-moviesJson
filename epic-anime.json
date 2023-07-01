@@ -1,5 +1,240 @@
 [
     {
+        "name": "Record of Ragnarok",
+        "category": "tv",
+        "id": 114868,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 172706,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 2567671,
+                        "descarga": "https://cuty.io/q5HR",
+                        "online": "https://cuty.io/lKua",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3029603,
+                        "descarga": "https://cuty.io/cEiV2",
+                        "online": "https://cuty.io/hezn79n",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3029604,
+                        "descarga": "https://cuty.io/P9p3a2",
+                        "online": "https://cuty.io/JiRwR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 3029605,
+                        "descarga": "https://cuty.io/EIxWgDc",
+                        "online": "https://cuty.io/lKua",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 3029606,
+                        "descarga": "https://cuty.io/n96lh8T7Fd",
+                        "online": "https://cuty.io/AeXtDwY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 3029607,
+                        "descarga": "https://cuty.io/sFO7zn47H2eS",
+                        "online": "https://cuty.io/B73Dqav2T0Mt",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 3029608,
+                        "descarga": "https://cuty.io/x4Ngn",
+                        "online": "https://cuty.io/Br0g",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 3029609,
+                        "descarga": "https://cuty.io/PKBk21",
+                        "online": "https://cuty.io/iEP4hAE74V",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 3029610,
+                        "descarga": "https://cuty.io/PzKa3Jo",
+                        "online": "https://cuty.io/B73Dqav2T0Mt",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 3029611,
+                        "descarga": "https://cuty.io/8PS5Y",
+                        "online": "https://cuty.io/SPnao",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 11,
+                        "id": 3029612,
+                        "descarga": "https://cuty.io/3ts9K3jmuzR",
+                        "online": "https://cuty.io/Xh8dRk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 12,
+                        "id": 3029613,
+                        "descarga": "https://cuty.io/nB4o4txuR6V",
+                        "online": "https://cuty.io/vcl0Qh",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
+                ]
+            },
+            {
+                "season_number": 2,
+                "id": 299418,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4072160,
+                        "descarga": "https://cuty.io/loaEyUi0eR",
+                        "online": "https://cuty.io/duPm6IMH",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4072161,
+                        "descarga": "https://cuty.io/vrv2jI2RL",
+                        "online": "https://cuty.io/fgV0YHm88w",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4072162,
+                        "descarga": "https://cuty.io/T1kh",
+                        "online": "https://cuty.io/6WxWzQOcDSw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4072163,
+                        "descarga": "https://cuty.io/1OxP1PI0hxYR",
+                        "online": "https://cuty.io/62Xr8QLp2V2d",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 4072164,
+                        "descarga": "https://cuty.io/ayonBSPx",
+                        "online": "https://cuty.io/66Ekp",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 4072165,
+                        "descarga": "https://cuty.io/FV6FHG",
+                        "online": "https://cuty.io/BJ77NYE6",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 4072166,
+                        "descarga": "https://cuty.io/c64SGXp18e4",
+                        "online": "https://cuty.io/5ESFovsptyII",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 4072167,
+                        "descarga": "https://cuty.io/35pzivp5m",
+                        "online": "https://cuty.io/2UnZCB0QGKl",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 4072168,
+                        "descarga": "https://cuty.io/unL37twl",
+                        "online": "https://cuty.io/2G8w",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 4072169,
+                        "descarga": "https://cuty.io/C8fxm",
+                        "online": "https://cuty.io/1NwNpbElRcsU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/ooE9V",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Baki Hanma",
         "category": "tv",
         "id": 129600,
