@@ -1,5 +1,318 @@
 [
     {
+        "name": "The Boys",
+        "category": "tv",
+        "id": 76479,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 98085,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 1705013,
+                        "descarga": "https://cuty.io/jvCvbR",
+                        "online": "https://cuty.io/6VQJ6ZXT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 1863436,
+                        "descarga": "https://cuty.io/439DThaT",
+                        "online": "https://cuty.io/nPOF32w",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 1863437,
+                        "descarga": "https://cuty.io/2UCa",
+                        "online": "https://cuty.io/3W2OdBkV5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 1863438,
+                        "descarga": "https://cuty.io/LmzzCKgOq",
+                        "online": "https://cuty.io/PO4Weh6xM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 1863439,
+                        "descarga": "https://cuty.io/KOVIQT3xoPG",
+                        "online": "https://cuty.io/4VBBd3aeiLl4",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 1863440,
+                        "descarga": "https://cuty.io/tL8mzYhs8pxL",
+                        "online": "https://cuty.io/UxraKVW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 1863441,
+                        "descarga": "https://cuty.io/4SPi3k",
+                        "online": "https://cuty.io/uTCHMAK9BW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 1863442,
+                        "descarga": "https://cuty.io/7j1LyT",
+                        "online": "https://cuty.io/Tc0kM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AV4x",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            },
+            {
+                "season_number": 2,
+                "id": 154681,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 2324358,
+                        "descarga": "https://cuty.io/B8AUzNdmDTv",
+                        "online": "https://cuty.io/1JpS4zmtk6",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 2324558,
+                        "descarga": "https://cuty.io/xDYzVIo8",
+                        "online": "https://cuty.io/BzMn1gJFm",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 2324560,
+                        "descarga": "https://cuty.io/wn0992qW5",
+                        "online": "https://cuty.io/aexAZYPw9ARt",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 2324556,
+                        "descarga": "https://cuty.io/ft5J4CsT",
+                        "online": "https://cuty.io/3b30k",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 2324561,
+                        "descarga": "https://cuty.io/ZdsmJ9xqe",
+                        "online": "https://cuty.io/pD5c",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 2324565,
+                        "descarga": "https://cuty.io/lxwOjT",
+                        "online": "https://cuty.io/7zjfpmzcZhC",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 2324563,
+                        "descarga": "https://cuty.io/MAbQNfn6KLkE",
+                        "online": "https://cuty.io/Pjy4",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 2324567,
+                        "descarga": "https://cuty.io/mnsRgsIS0tT",
+                        "online": "https://cuty.io/q56nVA6K9ev2",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/AozMNI",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            },
+            {
+                "season_number": 3,
+                "id": 215686,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3283017,
+                        "descarga": "https://cuty.io/9qIM",
+                        "online": "https://cuty.io/ZdRdV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3435041,
+                        "descarga": "https://cuty.io/oCWWM94",
+                        "online": "https://cuty.io/2mh3WAWouEV5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3435042,
+                        "descarga": "https://cuty.io/yJgJ",
+                        "online": "https://cuty.io/WiktZbHaW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 3435043,
+                        "descarga": "https://cuty.io/wFIa5gGqg6c",
+                        "online": "https://cuty.io/dAazAu",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 3435044,
+                        "descarga": "https://cuty.io/iTbXj8X0op",
+                        "online": "https://cuty.io/EeqV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 3435045,
+                        "descarga": "https://cuty.io/Hnn8VdpW9c1u",
+                        "online": "https://cuty.io/nUSa9HKOxnj",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 3435048,
+                        "descarga": "https://cuty.io/rQTG3i27L2L",
+                        "online": "https://cuty.io/N4RzG2jd",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 3435049,
+                        "descarga": "https://cuty.io/naDWiTY",
+                        "online": "https://cuty.io/fuFPtAuUVea",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 8",
+                        "link_episodes_pack": "https://cuty.io/SFuO",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Cosmos",
         "category": "tv",
         "id": 58474,
