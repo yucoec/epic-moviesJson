@@ -1,5 +1,74 @@
 [
     {
+        "name": "Por mandato del cielo",
+        "category": "tv",
+        "id": 128095,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 200237,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3043510,
+                        "descarga": "https://cuty.io/VVJEHm0vcs",
+                        "online": "https://cuty.io/7dB3d",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3582684,
+                        "descarga": "https://cuty.io/pgi4WXDQ5z",
+                        "online": "https://cuty.io/yJuIqRnD6pZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3582684,
+                        "descarga": "https://cuty.io/3iZYIt",
+                        "online": "https://cuty.io/poanmE",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 3582686,
+                        "descarga": "https://cuty.io/QuHU3Ds5N",
+                        "online": "https://cuty.io/mktY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 3582687,
+                        "descarga": "https://cuty.io/RmDiBpW1mPYD",
+                        "online": "https://cuty.io/1sPNTqPVDi",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 3582688,
+                        "descarga": "https://cuty.io/UsQY",
+                        "online": "https://cuty.io/q6vG5Q",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 3582689,
+                        "descarga": "https://cuty.io/ZOUmF8I3507",
+                        "online": "https://cuty.io/JLifyLp70YU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "The Boys",
         "category": "tv",
         "id": 76479,
