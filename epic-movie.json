@@ -1,5 +1,37 @@
 [
     {
+        "name": "Star Wars: Episodio II: El ataque de los clones",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "711 MB",
+                        "link": "https://cuty.io/ie2C",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.13 GB",
+                        "link": "https://cuty.io/rZatk1nho",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.37 GB",
+                        "link": "https://cuty.io/7XCxKMgJM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/JShN",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 1894
+    },
+    {
         "name": "Star Wars: Episodio I: La amenaza fantasma",
         "descarga": [
             {
