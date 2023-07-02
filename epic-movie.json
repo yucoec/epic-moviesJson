@@ -1,5 +1,257 @@
 [
     {
+        "name": "Star Wars: El ascenso de Skywalker",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.03 GB",
+                        "link": "https://cuty.io/vD4tXmTx",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.12 GB",
+                        "link": "https://cuty.io/j4yLt7Q",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.35 GB",
+                        "link": "https://cuty.io/M0HDSML",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/zTCR",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 181812
+    },
+    {
+        "name": "Star Wars: Los últimos Jedi",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.10 GB",
+                        "link": "https://cuty.io/6xN1Exy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.27 GB",
+                        "link": "https://cuty.io/eUfy96WK9jcE",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.66 GB",
+                        "link": "https://cuty.io/kZ6gHeP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/0vDGScZKG0d",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 181808
+    },
+    {
+        "name": "Star Wars: El despertar de la fuerza",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1016 MB",
+                        "link": "https://cuty.io/aItQtDeWZB0c",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.06 GB",
+                        "link": "https://cuty.io/t19Uh0u",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.24 GB",
+                        "link": "https://cuty.io/qAbbpOi",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/UELDlD5p9",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 140607
+    },
+    {
+        "name": "El regreso del Jedi",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.39 GB",
+                        "link": "https://cuty.io/cL0PvXPvk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/7e5kG3u",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 1892
+    },
+    {
+        "name": "El Imperio contraataca",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "2.00 GB",
+                        "link": "https://cuty.io/sBaufY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/mSjtC6AO",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 1891
+    },
+    {
+        "name": "La guerra de las galaxias",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.43 GB",
+                        "link": "https://cuty.io/BcekR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/PuW3vIN",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 11
+    },
+    {
+        "name": "Star Wars: Rogue One",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "997 MB",
+                        "link": "https://cuty.io/Ky9DoXGbn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.00 GB",
+                        "link": "https://cuty.io/kHjf1YI18tu",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.11 GB",
+                        "link": "https://cuty.io/621sxgK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/NA48YCV",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 330459
+    },
+    {
+        "name": "Han Solo: Una historia de Star Wars",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "992 MB",
+                        "link": "https://cuty.io/8wIsua",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.01 GB",
+                        "link": "https://cuty.io/4OiUNihlfq6",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.13 GB",
+                        "link": "https://cuty.io/E1JV8TK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/6oXE3OHBQKu",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 348350
+    },
+    {
+        "name": "Star Wars: Episodio III: La venganza de los Sith",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.02 GB",
+                        "link": "https://cuty.io/HzfzuOrTn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.09 GB",
+                        "link": "https://cuty.io/cLrS3Q8swp",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.30 GB",
+                        "link": "https://cuty.io/m0ET",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/TnS98fOOvyTF",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 1895
+    },
+    {
         "name": "Star Wars: Episodio II: El ataque de los clones",
         "descarga": [
             {
