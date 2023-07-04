@@ -1,5 +1,37 @@
 [
     {
+        "name": "El Sorprendente Hombre Araña",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1003 MB",
+                        "link": "https://cuty.io/FpCXAU9v3DfA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.04 GB",
+                        "link": "https://cuty.io/c8WOW4lr0Js",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.19 GB",
+                        "link": "https://cuty.io/KQRVi7nNBS",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/lMsaE",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 1930
+    },
+    {
         "name": "El hombre araña 3",
         "descarga": [
             {
