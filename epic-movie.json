@@ -1,5 +1,37 @@
 [
     {
+        "name": "El hombre araña",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "892 MB",
+                        "link": "https://cuty.io/dozcYC",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.81 GB",
+                        "link": "https://cuty.io/GaKkNW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "3.72 GB",
+                        "link": "https://cuty.io/U3ZgQ4Ni",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/Hw2ByOnLg",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 557
+    },
+    {
         "name": "La Piel Fría",
         "descarga": [
             {
