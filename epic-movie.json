@@ -1,5 +1,37 @@
 [
     {
+        "name": "El hombre araña 3",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "999 MB",
+                        "link": "https://cuty.io/IN3NXdsdn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.08 GB",
+                        "link": "https://cuty.io/40kY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.27 GB",
+                        "link": "https://cuty.io/q1p1yax",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/z0TvaBJ",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 559
+    },
+    {
         "name": "El hombre araña 2",
         "descarga": [
             {
