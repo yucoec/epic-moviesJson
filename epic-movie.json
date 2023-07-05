@@ -1,5 +1,107 @@
 [
     {
+        "name": "Spider-Man: Sin camino a casa",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.08 GB",
+                        "link": "https://cuty.io/IIfDpfnpC",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.21 GB",
+                        "link": "https://cuty.io/SdGDamHM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.55 GB",
+                        "link": "https://cuty.io/SdPlzW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "4K 216p Latino - Ingles",
+                        "peso": "20.34 GB",
+                        "link": "https://cuty.io/mnyF5GI8mt3o",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/cj9A",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 634649
+    },
+    {
+        "name": "Spider-Man: Lejos de casa",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "901 MB",
+                        "link": "https://cuty.io/vOyX9VnW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.93 GB",
+                        "link": "https://cuty.io/xkDGJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.97 GB",
+                        "link": "https://cuty.io/UytXow6roI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/3ElupdR",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 429617
+    },
+    {
+        "name": "Spider-Man: De regreso a casa",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "666 MB",
+                        "link": "https://cuty.io/ccOG",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.00 GB",
+                        "link": "https://cuty.io/HFrYgSGUy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.10 GB",
+                        "link": "https://cuty.io/4qURRiJvygam",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/DfKUbdscXrl",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 315635
+    },
+    {
         "name": "El Sorprendente Hombre Araña 2: La Amenaza de Electro",
         "descarga": [
             {
