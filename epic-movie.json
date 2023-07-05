@@ -1,5 +1,37 @@
 [
     {
+        "name": "El Sorprendente Hombre Araña 2: La Amenaza de Electro",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.02 GB",
+                        "link": "https://cuty.io/gtWQrYWBJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.12 GB",
+                        "link": "https://cuty.io/5meXu3Xu",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.35 GB",
+                        "link": "https://cuty.io/5vp0ah",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/39nfSx",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 102382
+    },
+    {
         "name": "El Sorprendente Hombre Araña",
         "descarga": [
             {
