@@ -1,5 +1,37 @@
 [
     {
+        "name": "El Planeta De Los Simios: La Guerra",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.01 GB",
+                        "link": "https://cuty.io/uijXNd",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.09 GB",
+                        "link": "https://cuty.io/kA5Z89KS2qk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.30 GB",
+                        "link": "https://cuty.io/eS48CUSkLN",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/5u2cTA",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 281338
+    },
+    {
         "name": "El Amanecer Del Planeta De Los Simios",
         "descarga": [
             {
