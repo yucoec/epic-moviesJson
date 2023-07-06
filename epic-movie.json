@@ -1,5 +1,49 @@
 [
     {
+        "name": "Guardianes de la Galaxia volumen 3",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "817 MB",
+                        "link": "https://cuty.io/trtRvpHZB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.43GB",
+                        "link": "https://cuty.io/D00b6NKyl",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Ligero Latino - Ingles",
+                        "peso": "4.79 GB",
+                        "link": "https://cuty.io/VChXEvw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p IMAX Latino - Ingles",
+                        "peso": "12.17 GB",
+                        "link": "https://cuty.io/TSle4g5R2",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "23.75 GB",
+                        "link": "https://cuty.io/BnA2rs3",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/avXndt",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 447365
+    },
+    {
         "name": "Indiana Jones y el dial del destino",
         "descarga": [
             {
@@ -2280,25 +2324,6 @@
         "category": "movie",
         "password": true,
         "id": 493529
-    },
-    {
-        "name": "Guardianes de la Galaxia volumen 3",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "CAM",
-                        "link": "https://exe.io/0mCF7rj",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://exe.io/F3h8bS",
-        "calidad": "CAM",
-        "category": "movie",
-        "password": false,
-        "id": 447365
     },
     {
         "name": "Renfield: Asistente de vampiro",
