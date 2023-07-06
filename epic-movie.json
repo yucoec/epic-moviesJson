@@ -1,5 +1,31 @@
 [
     {
+        "name": "Indiana Jones y el dial del destino",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "1.18 GB",
+                        "link": "https://cuty.io/tarfbzt9T",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "TELESYNC 1080P",
+                        "peso": "3.58 GB",
+                        "link": "https://cuty.io/0jqVPkTopjol",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/TBC7qyxzX",
+        "calidad": "TELESYNC 1080P",
+        "category": "movie",
+        "password": false,
+        "id": 335977
+    },
+    {
         "name": "Hambre",
         "descarga": [
             {
@@ -764,26 +790,6 @@
         "category": "movie",
         "password": false,
         "id": 1040148
-    },
-    {
-        "name": "Indiana Jones y el dial del destino",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "CAM",
-                        "peso": "1.18 GB",
-                        "link": "https://cuty.io/tarfbzt9T",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/0pqz",
-        "calidad": "CAM",
-        "category": "movie",
-        "password": false,
-        "id": 335977
     },
     {
         "name": "Matrix resurrecciones",
