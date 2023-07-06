@@ -41,6 +41,91 @@
         ]
     },
     {
+        "name": "El Señor de los Anillos: Los Anillos de Poder",
+        "category": "tv",
+        "id": 84773,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 114041,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 1865375,
+                        "descarga": "https://cuty.io/dX5e6k1D0R50",
+                        "online": "https://cuty.io/RHS7m192ce",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3592072,
+                        "descarga": "https://cuty.io/ZCtZbC",
+                        "online": "https://cuty.io/XSuqRg2kXN34",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3838213,
+                        "descarga": "https://cuty.io/mrsokhHvop9t",
+                        "online": "https://cuty.io/Z9OuBOkr1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 3838214,
+                        "descarga": "https://cuty.io/mRbHihncXVSd",
+                        "online": "https://cuty.io/6B5GnpW9BNO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 3894853,
+                        "descarga": "https://cuty.io/mCHzpj",
+                        "online": "https://cuty.io/RHWu3SP3lX8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 3894854,
+                        "descarga": "https://cuty.io/356307PPtNL7",
+                        "online": "https://cuty.io/zQ9HreTL",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 3894855,
+                        "descarga": "https://cuty.io/9cNcw44ChPy",
+                        "online": "https://cuty.io/75yydnLlEzP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 3894856,
+                        "descarga": "https://cuty.io/cGidPTkf",
+                        "online": "https://cuty.io/6vz0MLidlMU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Ben 10",
         "category": "tv",
         "id": 4686,
