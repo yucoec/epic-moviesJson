@@ -1,5 +1,37 @@
 [
     {
+        "name": "Tenacious D: La Llave Del Destino",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "470 MB",
+                        "link": "https://cuty.io/karc04iq",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.65 GB",
+                        "link": "https://cuty.io/SWFLHO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.93 GB",
+                        "link": "https://cuty.io/ruim",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/7p8WEqv1hR0e",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 2179
+    },
+    {
         "name": "Guardianes de la Galaxia volumen 3",
         "descarga": [
             {
@@ -12,7 +44,7 @@
                     },
                     {
                         "qualityName": "720p Latino - Ingles",
-                        "peso": "1.43GB",
+                        "peso": "1.43 GB",
                         "link": "https://cuty.io/D00b6NKyl",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
                     },
