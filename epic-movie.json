@@ -20,6 +20,110 @@
         "id": 614479
     },
     {
+        "name": "La noche del demonio: La última llave",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.48 GB",
+                        "link": "https://cuty.io/h9klzWPAMJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/g72y",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 406563
+    },
+    {
+        "name": "La noche del demonio: Capítulo 3",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.57 GB",
+                        "link": "https://cuty.io/YOR6P60wZ8N",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/tSt1jagklx",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 280092
+    },
+    {
+        "name": "La noche del demonio: Capítulo 2",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "533 MB",
+                        "link": "https://cuty.io/AjWUuEi0dc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.08 GB",
+                        "link": "https://cuty.io/63VJxyDKL4hZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "6.65 GB",
+                        "link": "https://cuty.io/ddj2",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/0owK5oTR",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 91586
+    },
+    {
+        "name": "La noche del demonio",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "554 MB",
+                        "link": "https://cuty.io/xEqfV46A",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "0.97 GB",
+                        "link": "https://cuty.io/jAX0aTu3",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "6.47 GB",
+                        "link": "https://cuty.io/ws5BhUxj4Ce6",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/mUvK",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 49018
+    },
+    {
         "name": "Nacho Libre",
         "descarga": [
             {
