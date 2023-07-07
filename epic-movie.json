@@ -116,6 +116,102 @@
         "id": 447365
     },
     {
+        "name": "Guardianes de la Galaxia: Especial de las fiestas",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "209 MB",
+                        "link": "https://cuty.io/NFA01APA8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.32 GB",
+                        "link": "https://cuty.io/pDr0yG",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.33 GB",
+                        "link": "https://cuty.io/fYNaqr",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/GR3Nem7",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 774752
+    },
+    {
+        "name": "Guardianes de la galaxia Vol. 2",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "677 MB",
+                        "link": "https://cuty.io/aDY3H0",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "2.03 GB",
+                        "link": "https://cuty.io/BERAtDH59fc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.17 GB",
+                        "link": "https://cuty.io/mC56RW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/Jd0hDu4Ko2Io",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 283995
+    },
+    {
+        "name": "Guardianes de la galaxia",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "902 MB",
+                        "link": "https://cuty.io/atd5JJck20Vx",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.46 GB",
+                        "link": "https://cuty.io/MGiCDFcsR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.46 GB",
+                        "link": "https://cuty.io/12x84MH9",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/eIzH4f12aWS",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 118340
+    },
+    {
         "name": "Indiana Jones y el dial del destino",
         "descarga": [
             {
