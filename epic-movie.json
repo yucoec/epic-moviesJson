@@ -1,5 +1,37 @@
 [
     {
+        "name": "Vivero",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "492 MB",
+                        "link": "https://cuty.io/WUAnpWLuPsF",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.26 GB",
+                        "link": "https://cuty.io/OUh6sQ5Iw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.58 GB",
+                        "link": "https://cuty.io/yXTPmflZpgDj",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/ibhup7",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 458305
+    },
+    {
         "name": "Psicópata americano",
         "descarga": [
             {
