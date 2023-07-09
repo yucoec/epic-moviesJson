@@ -1,5 +1,25 @@
 [
     {
+        "name": "8 Minutos antes de morir",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "755 MB",
+                        "link": "https://cuty.io/8bJV4I",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/3fIQne1ZLs",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 45612
+    },
+    {
         "name": "Atrápame si puedes",
         "descarga": [
             {
