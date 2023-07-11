@@ -1,5 +1,25 @@
 [
     {
+        "name": "Ray",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.6 GB",
+                        "link": "https://cuty.io/Mgo65rr76Wpd",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/3YGwoHQII",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 1677
+    },
+    {
         "name": "Asesinos del futuro",
         "descarga": [
             {
