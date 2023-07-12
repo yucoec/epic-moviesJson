@@ -1,5 +1,25 @@
 [
     {
+        "name": "Sonido De La Libertad",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM Sub Español",
+                        "peso": "559 MB",
+                        "link": "https://cuty.io/WgrO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/Tl3QNuNG5kzd",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 678512
+    },
+    {
         "name": "Tesla",
         "descarga": [
             {
