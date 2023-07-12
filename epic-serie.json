@@ -64,7 +64,7 @@
                         "descarga": "https://cuty.io/0MbhhcIJZ7Q",
                         "online": "https://cuty.io/zj8dNRuvNzQ",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -73,7 +73,7 @@
                         "descarga": "https://cuty.io/FtaXYsQOD",
                         "online": "https://cuty.io/co08rSEe",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -82,7 +82,7 @@
                         "descarga": "https://cuty.io/rk5voep79",
                         "online": "https://cuty.io/zbiaG5KRbj",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -91,7 +91,7 @@
                         "descarga": "https://cuty.io/kwsmPPrvA",
                         "online": "https://cuty.io/fQk92AMa",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -100,7 +100,7 @@
                         "descarga": "https://cuty.io/ZkdnZzYbUdpY",
                         "online": "https://cuty.io/RhNn",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -109,7 +109,7 @@
                         "descarga": "https://cuty.io/nOzjpiy",
                         "online": "https://cuty.io/BOg989QQ4NB",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -118,7 +118,7 @@
                         "descarga": "https://cuty.io/kpBfZv3g",
                         "online": "https://cuty.io/o6ll4Kq",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -127,7 +127,7 @@
                         "descarga": "https://cuty.io/0cSBQnwww",
                         "online": "https://cuty.io/zbrjX",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -136,7 +136,7 @@
                         "descarga": "https://cuty.io/SWQs",
                         "online": "https://cuty.io/QB3sYj5Bku",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -145,7 +145,7 @@
                         "descarga": "https://cuty.io/hO7ge",
                         "online": "https://cuty.io/sALNk",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -154,7 +154,7 @@
                         "descarga": "https://cuty.io/EHHCw",
                         "online": "https://cuty.io/H8lZ",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -163,7 +163,7 @@
                         "descarga": "https://cuty.io/8sDWy",
                         "online": "https://cuty.io/dwIR",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
-                        "password": true,
+                        "password": false,
                         "isEpisode_pack": false
                     },
                     {
@@ -171,6 +171,57 @@
                         "id": 230094,
                         "descarga": "https://cuty.io/482v2",
                         "online": "https://cuty.io/i9HEgbtDX5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": false,
+                        "isEpisode_pack": false
+                    }
+                ]
+            },
+            {
+                "season_number": 2,
+                "id": 9682,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 230095,
+                        "descarga": "https://cuty.io/7NDb",
+                        "online": "https://cuty.io/0JcA4k3NWBuG",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": false,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 230096,
+                        "descarga": "https://cuty.io/xYKoHQWY",
+                        "online": "https://cuty.io/RLk2cbN",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 230097,
+                        "descarga": "https://cuty.io/06w3NiCv",
+                        "online": "https://cuty.io/xX4xAw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 230098,
+                        "descarga": "https://cuty.io/1tLikxg0tVf",
+                        "online": "https://cuty.io/NxETU8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 230099,
+                        "descarga": "https://cuty.io/L7wy",
+                        "online": "https://cuty.io/5fvJG",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
                         "password": true,
                         "isEpisode_pack": false
