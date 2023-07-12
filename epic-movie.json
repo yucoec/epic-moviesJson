@@ -1,5 +1,37 @@
 [
     {
+        "name": "Transformers: El despertar de las bestias",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.26 GB",
+                        "link": "https://cuty.io/fuAmW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "4.50 GB",
+                        "link": "https://cuty.io/aMquW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "14.37 GB",
+                        "link": "https://cuty.io/1oBwGM9q0CT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/PIxgUS2MksY",
+        "calidad": "4K",
+        "category": "movie",
+        "password": false,
+        "id": 667538
+    },
+    {
         "name": "Sonido De La Libertad",
         "descarga": [
             {
@@ -2707,31 +2739,6 @@
         "category": "movie",
         "password": false,
         "id": 532408
-    },
-    {
-        "name": "Transformers: El despertar de las bestias",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "TS-HQ",
-                        "link": "https://exe.io/0MOxr",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    },
-                    {
-                        "qualityName": "TELESYNC 1080P",
-                        "peso": "8.52 GB",
-                        "link": "https://cuty.io/v9OV",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://exe.io/Ya5vXFTE",
-        "calidad": "TELESYNC 1080P",
-        "category": "movie",
-        "password": false,
-        "id": 667538
     },
     {
         "name": "Bumblebee",
