@@ -50,6 +50,136 @@
         ]
     },
     {
+        "name": "Growing Up Creepie",
+        "category": "tv",
+        "id": 3031,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 9681,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 230082,
+                        "descarga": "https://cuty.io/0MbhhcIJZ7Q",
+                        "online": "https://cuty.io/zj8dNRuvNzQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 230083,
+                        "descarga": "https://cuty.io/FtaXYsQOD",
+                        "online": "https://cuty.io/co08rSEe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 230084,
+                        "descarga": "https://cuty.io/rk5voep79",
+                        "online": "https://cuty.io/zbiaG5KRbj",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 230085,
+                        "descarga": "https://cuty.io/kwsmPPrvA",
+                        "online": "https://cuty.io/fQk92AMa",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 230086,
+                        "descarga": "https://cuty.io/ZkdnZzYbUdpY",
+                        "online": "https://cuty.io/RhNn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 230087,
+                        "descarga": "https://cuty.io/nOzjpiy",
+                        "online": "https://cuty.io/BOg989QQ4NB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 230088,
+                        "descarga": "https://cuty.io/kpBfZv3g",
+                        "online": "https://cuty.io/o6ll4Kq",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 230089,
+                        "descarga": "https://cuty.io/0cSBQnwww",
+                        "online": "https://cuty.io/zbrjX",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 230090,
+                        "descarga": "https://cuty.io/SWQs",
+                        "online": "https://cuty.io/QB3sYj5Bku",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 230091,
+                        "descarga": "https://cuty.io/hO7ge",
+                        "online": "https://cuty.io/sALNk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 11,
+                        "id": 230092,
+                        "descarga": "https://cuty.io/EHHCw",
+                        "online": "https://cuty.io/H8lZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 12,
+                        "id": 230093,
+                        "descarga": "https://cuty.io/8sDWy",
+                        "online": "https://cuty.io/dwIR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 13,
+                        "id": 230094,
+                        "descarga": "https://cuty.io/482v2",
+                        "online": "https://cuty.io/i9HEgbtDX5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/streamsb.svg",
+                        "password": true,
+                        "isEpisode_pack": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "El Señor de los Anillos: Los Anillos de Poder",
         "category": "tv",
         "id": 84773,
