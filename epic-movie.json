@@ -1,5 +1,25 @@
 [
     {
+        "name": "Palmer",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "1.64 GB",
+                        "link": "https://cuty.io/jFbZdyhgjsz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/AvTATB",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 458220
+    },
+    {
         "name": "Cráter",
         "descarga": [
             {
