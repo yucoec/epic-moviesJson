@@ -1,5 +1,37 @@
 [
     {
+        "name": "Prospect",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "402 MB",
+                        "link": "https://cuty.io/bmJowifgZm8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.50 GB",
+                        "link": "https://cuty.io/UDELsRShA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.07 GB",
+                        "link": "https://cuty.io/h7ADpxF",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/tUAlYUcixyHy",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": false,
+        "id": 506072
+    },
+    {
         "name": "Palmer",
         "descarga": [
             {
