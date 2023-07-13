@@ -1,5 +1,37 @@
 [
     {
+        "name": "Welcome Home",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "285 MB",
+                        "link": "https://cuty.io/rILfQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.42 GB",
+                        "link": "https://cuty.io/0tiYk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.87 GB",
+                        "link": "https://cuty.io/1Next4VADci",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/KCtzXh",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 525460
+    },
+    {
         "name": "Demonio negro",
         "descarga": [
             {
