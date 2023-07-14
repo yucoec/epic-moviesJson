@@ -1,5 +1,43 @@
 [
     {
+        "name": "Bird Box Barcelona",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Castellano",
+                        "peso": "758 MB",
+                        "link": "https://cuty.io/NiPwPiy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Castellano - Ingles",
+                        "peso": "1.37 GB",
+                        "link": "https://cuty.io/PjiuocgXRj",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Castellano - Ingles",
+                        "peso": "2.38 GB",
+                        "link": "https://cuty.io/6Z9DWKi8tQx5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Castellano - Ingles",
+                        "peso": "5.51 GB",
+                        "link": "https://cuty.io/gxjDt",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/WN745ns",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 805320
+    },
+    {
         "name": "Dragon Ball Super: Super Hero",
         "descarga": [
             {
