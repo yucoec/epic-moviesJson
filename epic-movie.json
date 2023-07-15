@@ -1,5 +1,43 @@
 [
     {
+        "name": "Astérix y Obélix y el reino medio",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "720 MB",
+                        "link": "https://cuty.io/mAWXMa4p",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.30 GB",
+                        "link": "https://cuty.io/QSLgPo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.57 GB",
+                        "link": "https://cuty.io/OEEY85A",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "4.96 GB",
+                        "link": "https://cuty.io/QBUpP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/fpUViLM73",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 643215
+    },
+    {
         "name": "Oppenheimer: el dilema de la bomba atómica",
         "descarga": [
             {
