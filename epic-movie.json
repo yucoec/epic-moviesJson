@@ -1,5 +1,31 @@
 [
     {
+        "name": "Winnie the Pooh: Sangre y Miel",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "BLU-RAY 720p Latino Uptobox",
+                        "peso": "1.67 GB",
+                        "link": "https://cuty.io/kSJjO5C5qGLM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino Mega",
+                        "peso": "1.67 GB",
+                        "link": "https://cuty.io/z0N6Dz83dwQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btnMega.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/H668f6F30",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": false,
+        "id": 980078
+    },
+    {
         "name": "Titanes del Pacífico: La insurrección",
         "descarga": [
             {
@@ -108,15 +134,15 @@
                 "quality": [
                     {
                         "qualityName": "HD Latino",
-                        "peso": "1.15 GB",
-                        "link": "https://cuty.io/FaJjvXd",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                        "peso": "1.82 GB",
+                        "link": "https://cuty.io/WyVmXmI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     },
                     {
                         "qualityName": "HD SubEspañol",
                         "peso": "1.18 GB",
-                        "link": "https://cuty.io/m80l4Zai9n",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                        "link": "https://cuty.io/2xTSnBCOETtJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     }
                 ]
             }
