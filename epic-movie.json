@@ -1,5 +1,69 @@
 [
     {
+        "name": "Titanes del Pacífico: La insurrección",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "552 MB",
+                        "link": "https://cuty.io/QQN6CaLYVb",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.65 GB",
+                        "link": "https://cuty.io/2UNEJEOyc92F",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.40 GB",
+                        "link": "https://cuty.io/trEa",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/tCVwwoii",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 268896
+    },
+    {
+        "name": "Titanes Del Pacífico",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "654 MB",
+                        "link": "https://cuty.io/ekfON9Lu9S",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.96 GB",
+                        "link": "https://cuty.io/1LZb",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.03 GB",
+                        "link": "https://cuty.io/GjjaR4GzIma",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/FGRJLh",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 68726
+    },
+    {
         "name": "Astérix y Obélix y el reino medio",
         "descarga": [
             {
