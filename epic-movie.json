@@ -1,5 +1,43 @@
 [
     {
+        "name": "Tin & Tina",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Castellano",
+                        "peso": "378 MB",
+                        "link": "https://cuty.io/UTVshyUW3",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Castellano",
+                        "peso": "1.07 GB",
+                        "link": "https://cuty.io/8hHkgG",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Castellano",
+                        "peso": "2.29 GB",
+                        "link": "https://cuty.io/lTvd3QNrghJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Castellano",
+                        "peso": "7.08 GB",
+                        "link": "https://cuty.io/c3wXuzCU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/NoK8",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 943930
+    },
+    {
         "name": "Corazones De Hierro",
         "descarga": [
             {

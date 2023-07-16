@@ -1,5 +1,30 @@
 [
     {
+        "name": "Krypton",
+        "category": "tv",
+        "id": 71340,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 87531,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 1419782,
+                        "descarga": "https://cuty.io/BSJhjLvMl",
+                        "online": "https://cuty.io/dwj0qXad5g",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
+                        "password": false,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 10",
+                        "link_episodes_pack": "https://cuty.io/qV79",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Invasión Secreta",
         "category": "tv",
         "id": 114472,
