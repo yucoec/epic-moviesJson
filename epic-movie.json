@@ -1,5 +1,43 @@
 [
     {
+        "name": "Seven: Los siete pecados capitales",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "2.13 GB",
+                        "link": "https://cuty.io/78f1k4e8Kf0",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "BRRip 1080p Latino - Ingles",
+                        "peso": "5.76 GB",
+                        "link": "https://cuty.io/HiCezT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "12.14 GB",
+                        "link": "https://cuty.io/g1vqyz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "qualityName": "BD Remux 1080p Latino - Ingles",
+                        "peso": "27.58 GB",
+                        "link": "https://cuty.io/VGAmTla",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/5p7hSxLw8TDX",
+        "calidad": "REMUX 1080p",
+        "category": "movie",
+        "password": false,
+        "id": 807
+    },
+    {
         "name": "Tin & Tina",
         "descarga": [
             {
