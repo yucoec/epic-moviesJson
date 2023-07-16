@@ -1,5 +1,31 @@
 [
     {
+        "name": "¡Huye!",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "WEB-DL 720p Latino - Ingles",
+                        "peso": "2.44 GB",
+                        "link": "https://cuty.io/UnV5a",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "3.51 GB",
+                        "link": "https://cuty.io/mwliwc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/VzC6",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": false,
+        "id": 419430
+    },
+    {
         "name": "¡Nop!",
         "descarga": [
             {
