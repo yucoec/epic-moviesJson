@@ -1,5 +1,43 @@
 [
     {
+        "name": "El gran truco",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.78 GB",
+                        "link": "https://cuty.io/umQK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "4.8 GB",
+                        "link": "https://cuty.io/OH22",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 60fps 1080p Latino - Ingles",
+                        "peso": "9.2 GB",
+                        "link": "https://cuty.io/lDuI1yo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    },
+                    {
+                        "qualityName": "BDRip 4k HDR10 Latino - Ingles",
+                        "peso": "18 GB",
+                        "link": "https://cuty.io/flGZWk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/QEii",
+        "calidad": "4K",
+        "category": "movie",
+        "password": false,
+        "id": 1124
+    },
+    {
         "name": "Babylon",
         "descarga": [
             {
