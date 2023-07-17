@@ -1,5 +1,43 @@
 [
     {
+        "name": "Tenet",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.10 GB",
+                        "link": "https://cuty.io/d7Izq9",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "2.25 GB",
+                        "link": "https://cuty.io/C7dn2PSFE",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "4.62 GB",
+                        "link": "https://cuty.io/OX6fv",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "HDR 4K 2160p Latino - Ingles",
+                        "peso": "25.6 GB",
+                        "link": "https://cuty.io/y2ZD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/G01WLfytk",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 577922
+    },
+    {
         "name": "Flash",
         "descarga": [
             {
@@ -21,11 +59,17 @@
                         "peso": "7.71 GB",
                         "link": "https://cuty.io/soiwHURe",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "25.6 GB",
+                        "link": "https://cuty.io/r47Dlr92Ful4",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     }
                 ]
             }
         ],
-        "online": "https://cuty.io/ZTaR9fdKdHR",
+        "online": "https://cuty.io/NXYNUrkemcN",
         "calidad": "4K",
         "category": "movie",
         "password": true,
