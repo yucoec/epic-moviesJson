@@ -1,5 +1,43 @@
 [
     {
+        "name": "Air: La historia detrás del logo",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "423 MB",
+                        "link": "https://cuty.io/eicXl0e",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "989 MB",
+                        "link": "https://cuty.io/wNUt1K",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "7.11 GB",
+                        "link": "https://cuty.io/BUuWoQic",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "4K 216p Latino - Ingles",
+                        "peso": "12.5 GB",
+                        "link": "https://cuty.io/6v02t1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/VvOTdsEjUL",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 964980
+    },
+    {
         "name": "Forrest Gump",
         "descarga": [
             {
@@ -20,7 +58,7 @@
             }
         ],
         "online": "https://cuty.io/ri93eN0Z3JyG",
-        "calidad": "WEB-DL 1080p",
+        "calidad": "BRRip 1080p",
         "category": "movie",
         "password": false,
         "id": 13
