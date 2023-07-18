@@ -1,5 +1,102 @@
 [
     {
+        "name": "American Horror Stories",
+        "category": "tv",
+        "id": 113036,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 168526,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 2505663,
+                        "descarga": "https://cuty.io/qdCMCYi75w",
+                        "online": "https://cuty.io/Ytsj82",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 7",
+                        "link_episodes_pack": "https://cuty.io/5AJI1FxBebC",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3002775,
+                        "descarga": "https://cuty.io/fZ88C",
+                        "online": "https://cuty.io/SL9BU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 7",
+                        "link_episodes_pack": "https://cuty.io/5AJI1FxBebC",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3002897,
+                        "descarga": "https://cuty.io/rMnFK8BpM",
+                        "online": "https://cuty.io/mZsH8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 7",
+                        "link_episodes_pack": "https://cuty.io/5AJI1FxBebC",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 3074923,
+                        "descarga": "https://cuty.io/dJ2l",
+                        "online": "https://cuty.io/hsrPN",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 7",
+                        "link_episodes_pack": "https://cuty.io/5AJI1FxBebC",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 3074924,
+                        "descarga": "https://cuty.io/LXqogOCK4",
+                        "online": "https://cuty.io/IWh26a9Hp",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 7",
+                        "link_episodes_pack": "https://cuty.io/5AJI1FxBebC",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 3084667,
+                        "descarga": "https://cuty.io/B1bVi",
+                        "online": "https://cuty.io/XTl0XW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 7",
+                        "link_episodes_pack": "https://cuty.io/5AJI1FxBebC",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 3125307,
+                        "descarga": "https://cuty.io/F5G93bkK5NL",
+                        "online": "https://cuty.io/eYxX1DNEvbgB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 7",
+                        "link_episodes_pack": "https://cuty.io/5AJI1FxBebC",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Gotham Knights",
         "category": "tv",
         "id": 195868,
