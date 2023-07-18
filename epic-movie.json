@@ -1,5 +1,43 @@
 [
     {
+        "name": "La ballena",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "969 MB",
+                        "link": "https://cuty.io/FaI7qBrW",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.67 GB",
+                        "link": "https://cuty.io/vAo3l",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "6.97 GB",
+                        "link": "https://cuty.io/umycZAxrdE",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "4K 216p Latino - Ingles",
+                        "peso": "21.34 GB",
+                        "link": "https://cuty.io/zpDNE6L",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/K5m0",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 785084
+    },
+    {
         "name": "El gran truco",
         "descarga": [
             {
