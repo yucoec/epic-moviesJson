@@ -1,5 +1,37 @@
 [
     {
+        "name": "Contra lo imposible",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.87 GB",
+                        "link": "https://cuty.io/mF2DgXwbn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "3 GB",
+                        "link": "https://cuty.io/WeytYFFdORaD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 4k HDR10 Latino - Ingles",
+                        "peso": "17.7 GB",
+                        "link": "https://cuty.io/k0KpLZX",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/zJd5kvPR3TD",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 359724
+    },
+    {
         "name": "La ballena",
         "descarga": [
             {
