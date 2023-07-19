@@ -1,5 +1,37 @@
 [
     {
+        "name": "Mortal Kombat",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "818 MB",
+                        "link": "https://cuty.io/e7aWur5QtHH",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.49 GB",
+                        "link": "https://cuty.io/cIHSZX8k",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "2.88 GB",
+                        "link": "https://cuty.io/SKEYcV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/6sfbpaljeaYO",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 460465
+    },
+    {
         "name": "Krakens y sirenas: Conoce a los Gillman",
         "descarga": [
             {
@@ -34,7 +66,7 @@
         "online": "https://cuty.io/A7lCtM",
         "calidad": "4K",
         "category": "movie",
-        "password": false,
+        "password": true,
         "id": 1040148
     },
     {
