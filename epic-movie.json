@@ -1,5 +1,37 @@
 [
     {
+        "name": "La isla siniestra",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.09",
+                        "link": "https://cuty.io/ZuooKS",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "5.93 GB",
+                        "link": "https://cuty.io/qkeJk6BlE3a",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    },
+                    {
+                        "qualityName": "BDRremux 4k HDR10 Latino - Ingles",
+                        "peso": "47.2 GB",
+                        "link": "https://cuty.io/tIVJDpUt20a",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/5D4QIUN",
+        "calidad": "4K",
+        "category": "movie",
+        "password": false,
+        "id": 11324
+    },
+    {
         "name": "Mortal Kombat",
         "descarga": [
             {
