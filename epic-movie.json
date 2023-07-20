@@ -1,5 +1,37 @@
 [
     {
+        "name": "Bastardos sin gloria",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "763 MB",
+                        "link": "https://cuty.io/KWAGLbdA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.98 GB",
+                        "link": "https://cuty.io/z2qTp",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "6.17 GB",
+                        "link": "https://cuty.io/D0peul",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/0ciZe1F",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 16869
+    },
+    {
         "name": "El Aviador",
         "descarga": [
             {
