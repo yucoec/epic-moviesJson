@@ -32,6 +32,32 @@
         "id": 2567
     },
     {
+        "name": "Sonido De La Libertad",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "1080P HDTS Latino",
+                        "peso": "7.23 GB",
+                        "link": "https://cuty.io/wf1NjeqIU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "CAM Sub Español",
+                        "peso": "559 MB",
+                        "link": "https://cuty.io/WgrO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/YuiA8pClLpk",
+        "calidad": "HDTS",
+        "category": "movie",
+        "password": false,
+        "id": 678512
+    },
+    {
         "name": "Francotirador: El fin del Asesino",
         "descarga": [
             {
@@ -1128,32 +1154,6 @@
         "category": "movie",
         "password": false,
         "id": 667538
-    },
-    {
-        "name": "Sonido De La Libertad",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "1080P HDTS Latino",
-                        "peso": "7.23 GB",
-                        "link": "https://cuty.io/wf1NjeqIU",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    },
-                    {
-                        "qualityName": "CAM Sub Español",
-                        "peso": "559 MB",
-                        "link": "https://cuty.io/WgrO",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/YuiA8pClLpk",
-        "calidad": "CAM",
-        "category": "movie",
-        "password": false,
-        "id": 678512
     },
     {
         "name": "Tesla",
