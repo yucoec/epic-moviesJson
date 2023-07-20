@@ -1,5 +1,37 @@
 [
     {
+        "name": "Francotirador: El fin del Asesino",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "BRRip 1080p Latino - Ingles",
+                        "peso": "3.2 GB",
+                        "link": "https://cuty.io/YrzUIS1yza",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "8.6 GB",
+                        "link": "https://cuty.io/BOLjZccH4u",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "qualityName": "REMUX 1080p Latino - Ingles",
+                        "peso": "18.1 GB",
+                        "link": "https://cuty.io/lFjWcKg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/DetT9",
+        "calidad": "REMUX 1080p",
+        "category": "movie",
+        "password": false,
+        "id": 702936
+    },
+    {
         "name": "Chappie",
         "descarga": [
             {
