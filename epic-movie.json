@@ -1,5 +1,37 @@
 [
     {
+        "name": "Django sin cadenas",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.31 GB",
+                        "link": "https://cuty.io/thlFif826iH",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "3.05 GB",
+                        "link": "https://cuty.io/LOqrGpZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "10.4 GB",
+                        "link": "https://cuty.io/PEh32jaOo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/8iNy4Hr2",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": false,
+        "id": 68718
+    },
+    {
         "name": "Sin límites",
         "descarga": [
             {
