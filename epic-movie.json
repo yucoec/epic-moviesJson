@@ -1,5 +1,49 @@
 [
     {
+        "name": "Resident Evil: Death Island",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "577 MB",
+                        "link": "https://cuty.io/F2yY9ILae11",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.10 GB",
+                        "link": "https://cuty.io/jsnB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "5.19 GB",
+                        "link": "https://cuty.io/ekg36hMQCSr",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "16.20 GB",
+                        "link": "https://cuty.io/11FFgq4UXh7",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "REMUX 4k Latino - Ingles",
+                        "peso": "39.38 GB",
+                        "link": "https://cuty.io/efDwEd3x",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/dOHNQ",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 1083862
+    },
+    {
         "name": "Oppenheimer",
         "descarga": [
             {
