@@ -1,5 +1,25 @@
 [
     {
+        "name": "Oppenheimer",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "2.58 GB",
+                        "link": "https://cuty.io/0eKo47azojTi",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/5T17LEqX2",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 872585
+    },
+    {
         "name": "Barbie",
         "descarga": [
             {
@@ -13,7 +33,7 @@
                 ]
             }
         ],
-        "online": "hhttps://cuty.io/qnmoc",
+        "online": "https://cuty.io/qnmoc",
         "calidad": "CAM",
         "category": "movie",
         "password": false,
