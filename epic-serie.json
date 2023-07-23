@@ -1,5 +1,72 @@
 [
     {
+        "name": "Obi-Wan Kenobi",
+        "category": "tv",
+        "id": 92830,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 130857,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 1903004,
+                        "descarga": "https://cuty.io/MtG7",
+                        "online": "https://cuty.io/Irm3A",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3500176,
+                        "descarga": "https://cuty.io/DKjJgS3",
+                        "online": "https://cuty.io/zNku45p",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3500177,
+                        "descarga": "https://cuty.io/vel9pWgVmhe",
+                        "online": "https://cuty.io/79BWyF",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 3635493,
+                        "descarga": "https://cuty.io/ritCXW",
+                        "online": "https://cuty.io/EcLk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 3635494,
+                        "descarga": "https://cuty.io/H5BREaTR75X7",
+                        "online": "https://cuty.io/TAUs0cfD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 3635495,
+                        "descarga": "https://cuty.io/3TPH",
+                        "online": "https://cuty.io/UhMPPBhO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Invasión Secreta",
         "category": "tv",
         "id": 114472,
