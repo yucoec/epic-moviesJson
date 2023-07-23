@@ -1,5 +1,25 @@
 [
     {
+        "name": "Invincible: Atom Eve",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "1.49 GB",
+                        "link": "https://cuty.io/7HwmdYA3",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/ZcJ1g1DscxEQ",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 1155267
+    },
+    {
         "name": "Resident Evil: Death Island",
         "descarga": [
             {
