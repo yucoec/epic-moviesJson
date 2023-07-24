@@ -1,5 +1,25 @@
 [
     {
+        "name": "Lo Desconocido: Los Robots Asesinos",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "962 MB",
+                        "link": "https://cuty.io/ABe95E9u",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/fEIpxWi",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 1128718
+    },
+    {
         "name": "Revenant: El renacido",
         "descarga": [
             {
@@ -103,7 +123,7 @@
                 ]
             }
         ],
-        "online": "https://cuty.io/5T17LEqX2",
+        "online": "https://cuty.io/s4N3jtxvR",
         "calidad": "CAM",
         "category": "movie",
         "password": false,
