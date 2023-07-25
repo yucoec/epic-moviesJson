@@ -1,5 +1,25 @@
 [
     {
+        "name": "Amnesia",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "920 MB",
+                        "link": "https://cuty.io/ccZwiEVV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/l6s2w",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 77
+    },
+    {
         "name": "Las bestias",
         "descarga": [
             {
