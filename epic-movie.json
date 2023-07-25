@@ -1,5 +1,25 @@
 [
     {
+        "name": "Policías de repuesto",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "3.19 GB",
+                        "link": "https://cuty.io/IARrWt4lHY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/hcX8cQEZ5H",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 27581
+    },
+    {
         "name": "La sirenita",
         "descarga": [
             {
