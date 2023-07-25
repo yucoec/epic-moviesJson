@@ -1,5 +1,37 @@
 [
     {
+        "name": "Doctor Sueño",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "762 MB",
+                        "link": "https://cuty.io/1vju",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.89 GB",
+                        "link": "https://cuty.io/p7cVT6xrak",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "4.63 GB",
+                        "link": "https://cuty.io/ZyAK1dl",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/bfPATdgkTt",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 501170
+    },
+    {
         "name": "Blade Runner 2049",
         "descarga": [
             {
