@@ -1,5 +1,25 @@
 [
     {
+        "name": "Las bestias",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "2.70 GB",
+                        "link": "https://cuty.io/HViPisq1p5",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/G5uVvkCzz",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 848685
+    },
+    {
         "name": "Doctor Sueño",
         "descarga": [
             {
@@ -249,16 +269,16 @@
             {
                 "quality": [
                     {
-                        "qualityName": "CAM",
-                        "peso": "1.98 GB",
-                        "link": "https://cuty.io/BjdzVaA",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                        "qualityName": "TELESYNC 1080P",
+                        "peso": "2.00 GB",
+                        "link": "https://cuty.io/EYqYuK3Sj8W",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
                     }
                 ]
             }
         ],
         "online": "https://cuty.io/qnmoc",
-        "calidad": "CAM",
+        "calidad": "TELESYNC 1080P",
         "category": "movie",
         "password": false,
         "id": 346698
