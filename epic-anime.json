@@ -1,9 +1,81 @@
 [
     {
+        "name": "Kimetsu no Yaiba",
+        "category": "tv",
+        "id": 85937,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 116882,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 1675448,
+                        "descarga": "https://cuty.io/shPZ7",
+                        "online": "https://cuty.io/R2WgR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 26",
+                        "link_episodes_pack": "https://cuty.io/3b2du1",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 1732614,
+                        "descarga": "https://cuty.io/X0FAwuNyTV",
+                        "online": "https://cuty.io/8wMjx0bu",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 26",
+                        "link_episodes_pack": "https://cuty.io/3b2du1",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 1732615,
+                        "descarga": "https://cuty.io/zYFkcSBtm",
+                        "online": "https://cuty.io/ZgFw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 26",
+                        "link_episodes_pack": "https://cuty.io/3b2du1",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 1732616,
+                        "descarga": "https://cuty.io/hFxdziF5n",
+                        "online": "https://cuty.io/GFmPsMgt8Cp",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 26",
+                        "link_episodes_pack": "https://cuty.io/3b2du1",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 1732617,
+                        "descarga": "https://cuty.io/DWLrhytV49g",
+                        "online": "https://cuty.io/zq1MShQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": true,
+                        "episodes_pack": "1 al 26",
+                        "link_episodes_pack": "https://cuty.io/3b2du1",
+                        "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Record of Ragnarok",
         "category": "tv",
         "id": 114868,
-        "statusTv": "NUEVOS CAPITULOS",
         "seasons": [
             {
                 "season_number": 1,

@@ -1,5 +1,37 @@
 [
     {
+        "name": "Deadpool",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "539 MB",
+                        "link": "https://cuty.io/9i9lMcB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Ingles",
+                        "peso": "1.85 GB",
+                        "link": "https://cuty.io/e2Zel",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Ingles",
+                        "peso": "3.77 GB",
+                        "link": "https://cuty.io/cLnrh",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/Rlhuda8SyS",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 293660
+    },
+    {
         "name": "Drive: El escape",
         "descarga": [
             {
