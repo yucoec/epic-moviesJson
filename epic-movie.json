@@ -325,12 +325,18 @@
                         "peso": "2.00 GB",
                         "link": "https://cuty.io/EYqYuK3Sj8W",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "HDTS Sin Publicidad",
+                        "peso": "6.43 GB",
+                        "link": "https://cuty.io/u95wg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     }
                 ]
             }
         ],
         "online": "https://cuty.io/qnmoc",
-        "calidad": "TELESYNC 1080P",
+        "calidad": "HDTS",
         "category": "movie",
         "password": false,
         "id": 346698
