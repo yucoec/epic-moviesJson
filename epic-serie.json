@@ -1,5 +1,27 @@
 [
     {
+        "name": "Futurama",
+        "category": "tv",
+        "statusTv": "NUEVO CAPITULO",
+        "id": 615,
+        "seasons": [
+            {
+                "season_number": 8,
+                "id": 339563,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4413381,
+                        "descarga": "https://cuty.io/JZgKsYGz",
+                        "online": "https://cuty.io/ycM6ToBt1JDI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Invencible",
         "category": "tv",
         "id": 95557,
