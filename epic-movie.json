@@ -1,5 +1,31 @@
 [
     {
+        "name": "Deadpool 2",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "BDRip 1080p Latino - Ingles",
+                        "peso": "4.7 GB",
+                        "link": "https://cuty.io/xyxw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                    },
+                    {
+                        "qualityName": "BD Remux 4k HDR Latino - Ingles",
+                        "peso": "50.9 GB",
+                        "link": "https://cuty.io/G8C3nQY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/DVoa",
+        "calidad": "4K",
+        "category": "movie",
+        "password": false,
+        "id": 383498
+    },
+    {
         "name": "El Precio del Mañana",
         "descarga": [
             {
