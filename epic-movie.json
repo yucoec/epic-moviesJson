@@ -1,5 +1,25 @@
 [
     {
+        "name": "El Exorcista",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "3.9 GB",
+                        "link": "https://cuty.io/OyZ93wSISUx",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/sBDk1Ehl050",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 9552
+    },
+    {
         "name": "Paradise",
         "descarga": [
             {
