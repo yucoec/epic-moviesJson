@@ -1,5 +1,43 @@
 [
     {
+        "name": "One Piece Film: Red",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "610 MB",
+                        "link": "https://cuty.io/n9pfk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Japones",
+                        "peso": "1.34 GB",
+                        "link": "https://cuty.io/vQa7Y",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Japones",
+                        "peso": "2.70 GB",
+                        "link": "https://cuty.io/AJ669zaK",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Japones",
+                        "peso": "3.43 GB",
+                        "link": "https://cuty.io/geyEMlfAV3J",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/wHv8uUH",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 900667
+    },
+    {
         "name": "Miraculous: Las aventuras de Ladybug - La película",
         "descarga": [
             {
