@@ -1,5 +1,37 @@
 [
     {
+        "name": "Green Book: Una amistad sin fronteras",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "475 MB",
+                        "link": "https://cuty.io/8BODl",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Japones",
+                        "peso": "1.94 GB",
+                        "link": "https://cuty.io/4cJnn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Japones",
+                        "peso": "3.94 GB",
+                        "link": "https://cuty.io/bo8Dc1t6",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/36cU",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 490132
+    },
+    {
         "name": "One Piece Film: Red",
         "descarga": [
             {
