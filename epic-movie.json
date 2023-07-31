@@ -1,5 +1,37 @@
 [
     {
+        "name": "El Día del Fin del Mundo",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "596 MB",
+                        "link": "https://cuty.io/iA6RtB8oh07o",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 720p Latino - Japones",
+                        "peso": "1.55 GB",
+                        "link": "https://cuty.io/BUZBpsFe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "BLU-RAY 1080p Latino - Japones",
+                        "peso": "4.45 GB",
+                        "link": "https://cuty.io/BuWxuZy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/AAh35bCAo1",
+        "calidad": "BLU-RAY",
+        "category": "movie",
+        "password": true,
+        "id": 524047
+    },
+    {
         "name": "Green Book: Una amistad sin fronteras",
         "descarga": [
             {
