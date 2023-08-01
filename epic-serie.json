@@ -240,6 +240,7 @@
         "name": "Futurama",
         "category": "tv",
         "id": 615,
+        "statusTv": "NUEVO CAPITULO",
         "seasons": [
             {
                 "season_number": 8,
@@ -250,6 +251,14 @@
                         "id": 4413381,
                         "descarga": "https://cuty.io/JZgKsYGz",
                         "online": "https://cuty.io/ycM6ToBt1JDI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4413386,
+                        "descarga": "https://cuty.io/bgvLwnZx",
+                        "online": "https://cuty.io/b3kUSA3L1jC3",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
                         "password": false
                     }
