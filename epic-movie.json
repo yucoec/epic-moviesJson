@@ -1,5 +1,25 @@
 [
     {
+        "name": "Amor y tulipanes",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "HD Latino",
+                        "peso": "850 MB",
+                        "link": "https://cuty.io/JkzPTD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+            }
+        ]
+} 
+], 
+        "online": "https://cuty.io/Hdu01E",
+        "calidad": "HD",
+        "category": "movie",
+        "password": false,
+        "id": 257785
+    },
+    {
         "name": "La noche del demonio: La puerta roja",
         "descarga": [
             {
