@@ -1,5 +1,25 @@
 [
     {
+        "name": "Tortugas Ninja: Caos mutante",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "1.93 GB",
+                        "link": "https://cuty.io/LBRduUq",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/Y2Au1U7TpGr",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 614930
+    },
+    {
         "name": "Megalodón 2: El gran abismo",
         "descarga": [
             {
