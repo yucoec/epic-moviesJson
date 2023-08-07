@@ -211,7 +211,14 @@
                         "episodes_pack": "1 al 13",
                         "link_episodes_pack": "https://cuty.io/EZKrMD1GvOjy",
                         "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
+                    },
+                    {
+                        "episode_number": 18,
+                        "id": 4584669,
+                        "descarga": "https://cuty.io/RJnF9U",
+                        "online": "https://cuty.io/2RoBK1HR",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false}
                 ]
             }
         ]
