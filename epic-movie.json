@@ -1,5 +1,37 @@
 [
     {
+        "name": "La revolución de Jesús",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "WEB-DL 720p Latino - Ingles",
+                        "peso": "3.95 GB",
+                        "link": "https://cuty.io/M7zys1QPPQr",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "8.68 GB",
+                        "link": "https://cuty.io/xHyvgeG6oQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "21.68 GB GB",
+                        "link": "https://cuty.io/XTpU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/btndrive.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/Nmj4",
+        "calidad": "4K",
+        "category": "movie",
+        "password": false,
+        "id": 719256
+    },
+    {
         "name": "Mansión embrujada",
         "descarga": [
             {
