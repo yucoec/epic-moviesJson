@@ -1,5 +1,43 @@
 [
     {
+        "name": "Hazme el favor",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "657 MB",
+                        "link": "https://cuty.io/OkwskmNxt",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.13 GB",
+                        "link": "https://cuty.io/I7krA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "5.31 GB",
+                        "link": "https://cuty.io/rIqZNj8P",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "18.2 GB",
+                        "link": "https://cuty.io/GMCG7NvaBdH",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/JJCC",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 884605
+    },
+    {
         "name": "The Seven Deadly Sins: El rencor de Edimburgo (Parte 2)",
         "descarga": [
             {
