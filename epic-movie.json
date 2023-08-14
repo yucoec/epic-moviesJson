@@ -1,5 +1,49 @@
 [
     {
+        "name": "Elementos",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "1.09 GB",
+                        "link": "https://cuty.io/57vH52CzDiO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.97 GB",
+                        "link": "https://cuty.io/cyHuq0",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "3.60 GB",
+                        "link": "https://cuty.io/M0Eni",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "8.49 GB",
+                        "link": "https://cuty.io/E0mP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "18.9 GB",
+                        "link": "https://cuty.io/5kzR5MQOXeA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/A6j5bfWd",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 976573
+    },
+    {
         "name": "Megalodón",
         "descarga": [
             {
@@ -218,31 +262,31 @@
                 "quality": [
                     {
                         "qualityName": "720p Latino - Ingles",
-                        "peso":"2.49 GB",
+                        "peso": "2.49 GB",
                         "link": "https://cuty.io/maaIC",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
                     },
                     {
                         "qualityName": "1080p Latino - Ingles",
-                        "peso":"4.39 GB",
+                        "peso": "4.39 GB",
                         "link": "https://cuty.io/BVM79S9VV",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
                     },
                     {
                         "qualityName": "1080p Latino - Ingles",
-                        "peso":"4.39 GB",
+                        "peso": "4.39 GB",
                         "link": "https://cuty.io/BVM79S9VV",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
                     },
                     {
                         "qualityName": "WEB-DL 1080p Latino - Ingles",
-                        "peso":"10.6 GB",
+                        "peso": "10.6 GB",
                         "link": "https://cuty.io/JsBq4tUlTy",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     },
                     {
                         "qualityName": "WEB-DL 4k Latino - Ingles",
-                        "peso":"24.1 GB",
+                        "peso": "24.1 GB",
                         "link": "https://cuty.io/m9GaX",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     }
@@ -441,10 +485,10 @@
                         "peso": "850 MB",
                         "link": "https://cuty.io/JkzPTD",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
             }
-        ]
-} 
-], 
+        ],
         "online": "https://cuty.io/Hdu01E",
         "calidad": "HD",
         "category": "movie",
@@ -4436,26 +4480,6 @@
         "category": "movie",
         "password": false,
         "id": 524789
-    },
-    {
-        "name": "Elementos",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "CAM",
-                        "peso": "2.56 GB",
-                        "link": "https://cuty.io/oRBdg",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/pHjTJoM",
-        "calidad": "CAM",
-        "category": "movie",
-        "password": false,
-        "id": 976573
     },
     {
         "name": "Un Lugar En Silencio: Parte 2",
