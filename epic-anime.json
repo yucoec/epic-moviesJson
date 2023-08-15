@@ -218,7 +218,16 @@
                         "descarga": "https://cuty.io/RJnF9U",
                         "online": "https://cuty.io/2RoBK1HR",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false}
+                        "password": false
+                    },
+                    {
+                        "episode_number": 19,
+                        "id": 4584670,
+                        "descarga": "https://cuty.io/WtbyGz0TEHcn",
+                        "online": "https://cuty.io/MPm8Kep1I",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
                 ]
             }
         ]
