@@ -1,51 +1,5 @@
 [
     {
-        "name": "Futurama",
-        "category": "tv",
-        "id": 615,
-        "statusTv": "NUEVO CAPITULO",
-        "seasons": [
-            {
-                "season_number": 8,
-                "id": 339563,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 4413381,
-                        "descarga": "https://cuty.io/JZgKsYGz",
-                        "online": "https://cuty.io/ycM6ToBt1JDI",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 2,
-                        "id": 4413386,
-                        "descarga": "https://cuty.io/bgvLwnZx",
-                        "online": "https://cuty.io/b3kUSA3L1jC3",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 3,
-                        "id": 4413387,
-                        "descarga": "https://cuty.io/IKs6McVV",
-                        "online": "https://cuty.io/PLjAUQqGf",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 4,
-                        "id": 4413389,
-                        "descarga": "https://cuty.io/ekPF",
-                        "online": "https://cuty.io/yG9Qws2dv6A",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Mis aventuras con Superman",
         "category": "tv",
         "statusTv": "NUEVO CAPITULO",
@@ -117,6 +71,61 @@
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true,
                         "isEpisode_pack": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 4582341,
+                        "descarga": "https://cuty.io/v3SXo47FNzS",
+                        "online": "https://cuty.io/kkQqhXnSd",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true,
+                        "isEpisode_pack": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Futurama",
+        "category": "tv",
+        "id": 615,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 8,
+                "id": 339563,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4413381,
+                        "descarga": "https://cuty.io/JZgKsYGz",
+                        "online": "https://cuty.io/ycM6ToBt1JDI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4413386,
+                        "descarga": "https://cuty.io/bgvLwnZx",
+                        "online": "https://cuty.io/b3kUSA3L1jC3",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4413387,
+                        "descarga": "https://cuty.io/IKs6McVV",
+                        "online": "https://cuty.io/PLjAUQqGf",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4413389,
+                        "descarga": "https://cuty.io/ekPF",
+                        "online": "https://cuty.io/yG9Qws2dv6A",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
                     }
                 ]
             }
