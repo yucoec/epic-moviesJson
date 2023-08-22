@@ -983,18 +983,36 @@
             {
                 "quality": [
                     {
-                        "qualityName": "HD Latino",
-                        "peso": "920 MB",
-                        "link": "https://cuty.io/ccZwiEVV",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "725 MB",
+                        "link": "https://cuty.io/yfimk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.34 GB",
+                        "link": "https://cuty.io/B2clcdSf",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p",
+                        "peso": "2.73 GB",
+                        "link": "https://cuty.io/PK6JDtU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "4.22 GB",
+                        "link": "https://cuty.io/NCXSzwyi1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
                     }
                 ]
             }
         ],
-        "online": "https://cuty.io/l6s2w",
-        "calidad": "HD",
+        "online": "https://cuty.io/uZNrezkN",
+        "calidad": "WEB-DL 1080p",
         "category": "movie",
-        "password": false,
+        "password": true,
         "id": 77
     },
     {
