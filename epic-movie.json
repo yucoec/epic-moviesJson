@@ -1,5 +1,43 @@
 [
     {
+        "name": "Fatum",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Castellano",
+                        "peso": "643 MB",
+                        "link": "https://cuty.io/7tcA",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Castellano",
+                        "peso": "1.08 GB",
+                        "link": "https://cuty.io/o0Xp3GWOnO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Castellano",
+                        "peso": "2.46 GB",
+                        "link": "https://cuty.io/dX42",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Castellano",
+                        "peso": "6.21 GB",
+                        "link": "https://cuty.io/nvj4kO",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/IjDR77",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 1053587
+    },
+    {
         "name": "Zoey 102: El Casamiento",
         "descarga": [
             {
