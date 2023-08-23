@@ -1,5 +1,35 @@
 [
     {
+        "name": "Star Wars Ahsoka",
+        "category": "tv",
+        "id": 114461,
+        "statusTv": "NUEVOS CAPITULOS",
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 171668,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 2552685,
+                        "descarga": "https://cuty.io/hMnq4bEdVa",
+                        "online": "https://cuty.io/8t6vZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4502580,
+                        "descarga": "https://cuty.io/FTCW3aNZO",
+                        "online": "https://cuty.io/wFma",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Futurama",
         "category": "tv",
         "id": 615,
