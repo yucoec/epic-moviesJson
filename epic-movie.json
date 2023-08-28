@@ -1,5 +1,37 @@
 [
     {
+        "name": "Snoopy presenta: La extraordinaria Marcie",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "628 MB",
+                        "link": "https://cuty.io/VmAZ1PU",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "0.99 GB",
+                        "link": "https://cuty.io/FqPeE",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "2.96 GB",
+                        "link": "https://cuty.io/SCu20VpIaP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/YgGPAdgiVNz",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 1128604
+    },
+    {
         "name": "El extraño caso del fantasma claustrofóbico",
         "descarga": [
             {
