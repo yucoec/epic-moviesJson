@@ -1,5 +1,49 @@
 [
     {
+        "name": "Indiana Jones y el dial del destino",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "838 MB",
+                        "link": "https://cuty.io/Xkyy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.19 GB",
+                        "link": "https://cuty.io/llvaeh9CGxxJ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "4.92 GB",
+                        "link": "https://cuty.io/Agm2kkNwk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "12.7 GB",
+                        "link": "https://cuty.io/VSMFqdF4s",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "28.3 GB",
+                        "link": "https://cuty.io/CuMLjtnP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/c9yNIDFI",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 335977
+    },
+    {
         "name": "Gran Turismo: De jugador a corredor",
         "descarga": [
             {
@@ -3544,32 +3588,6 @@
         "category": "movie",
         "password": true,
         "id": 118340
-    },
-    {
-        "name": "Indiana Jones y el dial del destino",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "CAM",
-                        "peso": "1.18 GB",
-                        "link": "https://cuty.io/tarfbzt9T",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
-                    },
-                    {
-                        "qualityName": "TELESYNC 1080P",
-                        "peso": "3.58 GB",
-                        "link": "https://cuty.io/0jqVPkTopjol",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/TBC7qyxzX",
-        "calidad": "TELESYNC 1080P",
-        "category": "movie",
-        "password": false,
-        "id": 335977
     },
     {
         "name": "Hambre",
