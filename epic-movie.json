@@ -1,5 +1,43 @@
 [
     {
+        "name": "El extraño caso del fantasma claustrofóbico",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "746 MB",
+                        "link": "https://cuty.io/oy6vg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.31 GB",
+                        "link": "https://cuty.io/mhcwyPZZqMQp",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.15 GB",
+                        "link": "https://cuty.io/nkYOxi6KkW6b",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "4.49 GB",
+                        "link": "https://cuty.io/iqpvDMoz1dfI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/l3RON1",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 1155458
+    },
+    {
         "name": "Amigos de las vacaciones 2",
         "descarga": [
             {
