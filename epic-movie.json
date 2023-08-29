@@ -1,5 +1,49 @@
 [
     {
+        "name": "Toc toc toc",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "791 MB",
+                        "link": "https://cuty.io/IvUsCeXr",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.24 GB",
+                        "link": "https://cuty.io/T68FsNxOe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.79 GB",
+                        "link": "https://cuty.io/kYpe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "4.74 GB",
+                        "link": "https://cuty.io/0KGg6bz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "15.6 GB",
+                        "link": "https://cuty.io/UBAQBr3Cuq4J",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/9kCvb67c",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 709631
+    },
+    {
         "name": "Indiana Jones y el dial del destino",
         "descarga": [
             {
