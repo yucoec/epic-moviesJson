@@ -1,5 +1,37 @@
 [
     {
+        "name": "Bob Esponja Presenta: La Marea Desconocida",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "641 MB",
+                        "link": "https://cuty.io/bmee",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.04 GB",
+                        "link": "https://cuty.io/Nn66slE8",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "2.16 GB",
+                        "link": "https://cuty.io/zl7pIImL",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/EN1E7AZ",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 1088812
+    },
+    {
         "name": "Barbie",
         "descarga": [
             {
