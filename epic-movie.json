@@ -1,22 +1,66 @@
 [
     {
-        "name": "Hijos de perra",
+        "name": "La monja II",
         "descarga": [
             {
                 "quality": [
                     {
-                        "qualityName": "CAM Latino",
-                        "peso": "1.68 GB",
-                        "link": "https://cuty.io/wgdx",
+                        "qualityName": "CAM",
+                        "peso": "1.95 GB",
+                        "link": "https://cuty.io/7ZLe",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     }
                 ]
             }
         ],
-        "online": "https://cuty.io/cgSYLy",
+        "online": "https://cuty.io/jijGO",
         "calidad": "CAM",
         "category": "movie",
         "password": false,
+        "id": 968051
+    },
+    {
+        "name": "Hijos de perra",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "683 MB",
+                        "link": "https://cuty.io/oQHQppwc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.06 GB",
+                        "link": "https://cuty.io/xk8DHX",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "1080p",
+                        "peso": "2.97 GB",
+                        "link": "https://cuty.io/uNNKfaSLm3so",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "5.02 GB",
+                        "link": "https://cuty.io/hVuxRJmvrYXg",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "16.8 GB",
+                        "link": "https://cuty.io/QIkTz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/a2wfGXr",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
         "id": 912908
     },
     {
