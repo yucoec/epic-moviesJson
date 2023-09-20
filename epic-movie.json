@@ -1,5 +1,49 @@
 [
     {
+        "name": "Blue Beetle",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "855 MB",
+                        "link": "https://cuty.io/AMJ0HCnF0o",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.66 GB",
+                        "link": "https://cuty.io/pPqb6JM",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.8 GB",
+                        "link": "https://cuty.io/V6dvFfNuU9",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "6.86 GB",
+                        "link": "https://cuty.io/4WV8sY3",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "22.7 GB",
+                        "link": "https://cuty.io/2MeLfn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/XtwW",
+        "calidad": "4K",
+        "category": "movie",
+        "password": true,
+        "id": 565770
+    },
+    {
         "name": "¿Y dónde está el exorcista?",
         "descarga": [
             {
@@ -678,26 +722,6 @@
         "category": "movie",
         "password": false,
         "id": 1008042
-    },
-    {
-        "name": "Blue Beetle",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "1080P HDTS",
-                        "peso": "3.35 GB",
-                        "link": "https://cuty.io/eluYi",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/7rxC",
-        "calidad": "HDTS",
-        "category": "movie",
-        "password": false,
-        "id": 565770
     },
     {
         "name": "Elementos",
