@@ -1,5 +1,50 @@
 [
     {
+        "name": "Rubius: Next Level Japón",
+        "category": "tv",
+        "id": 234015, 
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 355354,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4701477,
+                        "descarga": "https://cuty.io/Bkk3p",
+                        "online": "https://cuty.io/kwyo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4701578,
+                        "descarga": "https://cuty.io/hckH5z",
+                        "online": "https://cuty.io/i9vpjIzpc",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4701579,
+                        "descarga": "https://cuty.io/YYqBnucH",
+                        "online": "https://cuty.io/nUQURQbn",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4701581,
+                        "descarga": "https://cuty.io/IciXY2TBS5",
+                        "online": "https://cuty.io/5RCONAgQ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Futurama",
         "category": "tv",
         "id": 615,
