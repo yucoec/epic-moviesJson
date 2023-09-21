@@ -1,5 +1,67 @@
 [
     {
+        "name": "Star Wars Ahsoka",
+        "category": "tv",
+        "id": 114461,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 171668,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 2552685,
+                        "descarga": "https://cuty.io/hMnq4bEdVa",
+                        "online": "https://cuty.io/8t6vZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4502580,
+                        "descarga": "https://cuty.io/FTCW3aNZO",
+                        "online": "https://cuty.io/wFma",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4502583,
+                        "descarga": "https://cuty.io/uoiOJGaI9lig",
+                        "online": "https://cuty.io/8i1r09s",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4502586,
+                        "descarga": "https://cuty.io/SWwh",
+                        "online": "https://cuty.io/0ZJK8MIBnq",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 4502590,
+                        "descarga": "https://cuty.io/ztcV",
+                        "online": "https://cuty.io/3JNrXWj1",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }, 
+ {
+                        "episode_number": 6,
+                        "id": 4502594,
+                        "descarga": "https://cuty.io/vwcnD",
+                        "online": "https://cuty.io/JV6fH0TxpC",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    } 
+                ]
+            }
+        ]
+    },
+    {
         "name": "Rubius: Next Level Japón",
         "category": "tv",
         "id": 234015, 
@@ -117,60 +179,6 @@
                         "online": "https://cuty.io/jxre4SEzkqqt",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
                         "password": false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Star Wars Ahsoka",
-        "category": "tv",
-        "id": 114461,
-        "statusTv": "NUEVO CAPITULO",
-        "seasons": [
-            {
-                "season_number": 1,
-                "id": 171668,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 2552685,
-                        "descarga": "https://cuty.io/hMnq4bEdVa",
-                        "online": "https://cuty.io/8t6vZ",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 2,
-                        "id": 4502580,
-                        "descarga": "https://cuty.io/FTCW3aNZO",
-                        "online": "https://cuty.io/wFma",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 3,
-                        "id": 4502583,
-                        "descarga": "https://cuty.io/uoiOJGaI9lig",
-                        "online": "https://cuty.io/8i1r09s",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 4,
-                        "id": 4502586,
-                        "descarga": "https://cuty.io/SWwh",
-                        "online": "https://cuty.io/0ZJK8MIBnq",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 5,
-                        "id": 4502590,
-                        "descarga": "https://cuty.io/ztcV",
-                        "online": "https://cuty.io/3JNrXWj1",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
                     }
                 ]
             }
