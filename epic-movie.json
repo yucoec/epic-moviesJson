@@ -718,26 +718,6 @@
         "id": 1008042
     },
     {
-        "name": "Blue Beetle",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "1080P HDTS",
-                        "peso": "3.35 GB",
-                        "link": "https://cuty.io/eluYi",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/7rxC",
-        "calidad": "HDTS",
-        "category": "movie",
-        "password": false,
-        "id": 565770
-    },
-    {
         "name": "Elementos",
         "descarga": [
             {

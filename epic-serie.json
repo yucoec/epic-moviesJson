@@ -182,6 +182,27 @@
         ]
     },
     {
+        "name": "The Walking Dead: Daryl Dixon",
+        "category": "tv",
+        "id": 211684,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 311345,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3989339,
+                        "descarga": "https://cuty.io/psAag0p",
+                        "online": "https://cuty.io/kmWSd3J",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Yo soy Groot",
         "category": "tv",
         "id": 232125,
