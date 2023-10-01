@@ -1,5 +1,43 @@
 [
     {
+        "name": "Gen V",
+        "category": "tv",
+        "id": 205715,
+        "statusTv": "NUEVOS CAPITULOS",
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 300323,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3829025,
+                        "descarga": "https://cuty.io/EBz5",
+                        "online": "https://cuty.io/8ojF87",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4591456,
+                        "descarga": "https://cuty.io/xAMj",
+                        "online": "https://cuty.io/Vt2Ei",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4591457,
+                        "descarga": "https://cuty.io/BDRarN4m",
+                        "online": "https://cuty.io/vYPEHXM3R9Uz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Star Wars Ahsoka",
         "category": "tv",
         "id": 114461,
