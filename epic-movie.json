@@ -1,5 +1,25 @@
 [
     {
+        "name": "Los indestructibles 4",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "1.82 GB",
+                        "link": "https://cuty.io/bxih",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/h8HtmwKLnx",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 299054
+    },
+    {
         "name": "Saw X: El juego del miedo",
         "descarga": [
             {
