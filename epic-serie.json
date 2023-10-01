@@ -44,7 +44,15 @@
                         "online": "https://cuty.io/9KGkw8icdT",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true
-                    }
+                    }, 
+                    {
+                        "episode_number": 2,
+                        "id": 3293654,
+                        "descarga": "https://cuty.io/VtRmfwOpdM4",
+                        "online": "https://cuty.io/HKyc0nHPZe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    } 
                 ]
             }
         ]
