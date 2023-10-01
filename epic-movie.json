@@ -1,5 +1,25 @@
 [
     {
+        "name": "Saw X: El juego del miedo",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "2.06 GB",
+                        "link": "https://cuty.io/b1AFB",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/aijxY",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 951491
+    },
+    {
         "name": "Nadie podrá salvarte",
         "descarga": [
             {
