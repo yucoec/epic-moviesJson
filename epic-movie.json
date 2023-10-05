@@ -1,5 +1,49 @@
 [
     {
+        "name": "La monja II",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino ",
+                        "peso": "694 MB",
+                        "link": "https://cuty.io/yWMhkSUJf",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }, 
+{
+                        "qualityName": "720p Latino - Ingles ",
+                        "peso": "1.04 GB",
+                        "link": "https://cuty.io/IYsVWC",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }, 
+{
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "3.55 GB",
+                        "link": "https://cuty.io/7DtobAssLwy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }, 
+{
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "6.03 GB",
+                        "link": "https://cuty.io/kP7Tr9CP",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }, 
+{
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "19.65 GB",
+                        "link": "https://cuty.io/7Lcu",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }, 
+                ]
+            }
+        ],
+        "online": "https://cuty.io/Oi1XzrDni",
+        "calidad": "4k ",
+        "category": "movie",
+        "password": true,
+        "id": 968051
+    },
+    {
         "name": "Los indestructibles 4",
         "descarga": [
             {
@@ -184,27 +228,7 @@
         "category": "movie",
         "password": true,
         "id": 346698
-    },
-    {
-        "name": "La monja II",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "CAM",
-                        "peso": "1.95 GB",
-                        "link": "https://cuty.io/7ZLe",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/jijGO",
-        "calidad": "CAM",
-        "category": "movie",
-        "password": false,
-        "id": 968051
-    },
+    }, 
     {
         "name": "Hijos de perra",
         "descarga": [
@@ -219,7 +243,7 @@
                     {
                         "qualityName": "720p Latino - Ingles",
                         "peso": "1.06 GB",
-                        "link": "https://cuty.io/xk8DHX",
+                      "link": "https://cuty.io/xk8DHX",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     },
                     {
