@@ -1,5 +1,43 @@
 [
     {
+        "name": "Háblame",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "720 MB",
+                        "link": "https://cuty.io/ehjHYZneY",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }, 
+{
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.08 GB",
+                        "link": "https://cuty.io/LrKMaNNuX",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }, 
+{
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "3.22 GB",
+                        "link": "https://cuty.io/6kl7",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }, 
+{
+                        "qualityName": "WEB-DL Latino - Ingles",
+                        "peso": "6.11 GB",
+                        "link": "https://cuty.io/cawofQdJR8B",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/isZaX",
+        "calidad": "WEB-DL ",
+        "category": "movie",
+        "password": true,
+        "id": 1008042
+    },
+    {
         "name": "La monja II",
         "descarga": [
             {
@@ -760,26 +798,6 @@
         "category": "movie",
         "password": true,
         "id": 724209
-    },
-    {
-        "name": "Háblame",
-        "descarga": [
-            {
-                "quality": [
-                    {
-                        "qualityName": "CAM Latino",
-                        "peso": "1.36 GB",
-                        "link": "https://cuty.io/iwWHJh33x",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    }
-                ]
-            }
-        ],
-        "online": "https://cuty.io/QAhhye08",
-        "calidad": "CAM",
-        "category": "movie",
-        "password": false,
-        "id": 1008042
     },
     {
         "name": "Elementos",
