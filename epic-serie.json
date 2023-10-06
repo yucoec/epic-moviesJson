@@ -1,4 +1,26 @@
 [
+   {
+        "name": "Loki",
+        "category": "tv",
+        "id": 84958,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 2,
+                "id": 341180,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4447686,
+                        "descarga": "https://cuty.io/VWsJji",
+                        "online": "https://cuty.io/3ZPd1N",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    }, 
     {
         "name": "Gen V",
         "category": "tv",
