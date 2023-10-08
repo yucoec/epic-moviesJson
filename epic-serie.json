@@ -1,72 +1,4 @@
 [
-   {
-        "name": "Loki",
-        "category": "tv",
-        "id": 84958,
-        "statusTv": "NUEVO CAPITULO",
-        "seasons": [
-            {
-                "season_number": 2,
-                "id": 341180,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 4447686,
-                        "descarga": "https://cuty.io/VWsJji",
-                        "online": "https://cuty.io/3ZPd1N",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": true
-                    }
-                ]
-            }
-        ]
-    }, 
-    {
-        "name": "Gen V",
-        "category": "tv",
-        "id": 205715,
-        "statusTv": "NUEVOS CAPITULOS",
-        "seasons": [
-            {
-                "season_number": 1,
-                "id": 300323,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 3829025,
-                        "descarga": "https://cuty.io/EBz5",
-                        "online": "https://cuty.io/8ojF87",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 2,
-                        "id": 4591456,
-                        "descarga": "https://cuty.io/xAMj",
-                        "online": "https://cuty.io/Vt2Ei",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 3,
-                        "id": 4591457,
-                        "descarga": "https://cuty.io/BDRarN4m",
-                        "online": "https://cuty.io/vYPEHXM3R9Uz",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    }, 
-                    {
-                        "episode_number": 4,
-                        "id": 4591459,
-                        "descarga": "https://cuty.io/uVhg",
-                        "online": "https://cuty.io/90jsjrKdOV",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": true
-                    } 
-                ]
-            }
-        ]
-    },
     {
         "name": "Star Wars Ahsoka",
         "category": "tv",
@@ -116,7 +48,7 @@
                         "online": "https://cuty.io/3JNrXWj1",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true
-                    }, 
+                    },
                     {
                         "episode_number": 6,
                         "id": 4502594,
@@ -125,18 +57,131 @@
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true
                     },
-{
+                    {
                         "episode_number": 7,
                         "id": 4502598,
                         "descarga": "https://cuty.io/FNUVmJvQe",
                         "online": "https://cuty.io/tCrFB",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
                         "password": true
-}
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 4502602,
+                        "descarga": "https://cuty.io/XCqcn8GDBgZF",
+                        "online": "https://cuty.io/ncq9HsjB5a",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
                 ]
             }
         ]
-    }, 
+    },
+    {
+        "name": "El Continental: Del mundo de John Wick",
+        "category": "tv",
+        "id": 72710,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 90220,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 2043789,
+                        "descarga": "https://cuty.io/sOkt",
+                        "online": "https://cuty.io/9KGkw8icdT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 3293654,
+                        "descarga": "https://cuty.io/VtRmfwOpdM4",
+                        "online": "https://cuty.io/HKyc0nHPZe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 3293655,
+                        "descarga": "https://cuty.io/XsD8Oz7S1",
+                        "online": "https://cuty.io/6ur94xM1N",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Loki",
+        "category": "tv",
+        "id": 84958,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 2,
+                "id": 341180,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4447686,
+                        "descarga": "https://cuty.io/VWsJji",
+                        "online": "https://cuty.io/3ZPd1N",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gen V",
+        "category": "tv",
+        "id": 205715,
+        "statusTv": "NUEVOS CAPITULOS",
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 300323,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3829025,
+                        "descarga": "https://cuty.io/EBz5",
+                        "online": "https://cuty.io/8ojF87",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4591456,
+                        "descarga": "https://cuty.io/xAMj",
+                        "online": "https://cuty.io/Vt2Ei",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4591457,
+                        "descarga": "https://cuty.io/BDRarN4m",
+                        "online": "https://cuty.io/vYPEHXM3R9Uz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4591459,
+                        "descarga": "https://cuty.io/uVhg",
+                        "online": "https://cuty.io/90jsjrKdOV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
     {
         "name": "The Walking Dead: Daryl Dixon",
         "category": "tv",
@@ -162,35 +207,6 @@
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
                         "password": false
                     }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "El Continental: Del mundo de John Wick",
-        "category": "tv",
-        "id": 72710,
-        "seasons": [
-            {
-                "season_number": 1,
-                "id": 90220,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 2043789,
-                        "descarga": "https://cuty.io/sOkt",
-                        "online": "https://cuty.io/9KGkw8icdT",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    }, 
-                    {
-                        "episode_number": 2,
-                        "id": 3293654,
-                        "descarga": "https://cuty.io/VtRmfwOpdM4",
-                        "online": "https://cuty.io/HKyc0nHPZe",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    } 
                 ]
             }
         ]
