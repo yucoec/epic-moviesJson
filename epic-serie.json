@@ -1,5 +1,236 @@
 [
     {
+        "name": "Futurama",
+        "category": "tv",
+        "id": 615,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 8,
+                "id": 339563,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4413381,
+                        "descarga": "https://cuty.io/JZgKsYGz",
+                        "online": "https://cuty.io/ycM6ToBt1JDI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4413386,
+                        "descarga": "https://cuty.io/bgvLwnZx",
+                        "online": "https://cuty.io/b3kUSA3L1jC3",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4413387,
+                        "descarga": "https://cuty.io/IKs6McVV",
+                        "online": "https://cuty.io/PLjAUQqGf",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4413389,
+                        "descarga": "https://cuty.io/ekPF",
+                        "online": "https://cuty.io/yG9Qws2dv6A",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 4413385,
+                        "descarga": "https://cuty.io/JuHGymx",
+                        "online": "https://cuty.io/a9H7cnqar",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 6,
+                        "id": 4413388,
+                        "descarga": "https://cuty.io/ZIKB",
+                        "online": "https://cuty.io/br9Xn2W8L",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 7,
+                        "id": 4413382,
+                        "descarga": "https://cuty.io/bXJP",
+                        "online": "https://cuty.io/8tusMWuZK9X",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 8,
+                        "id": 4413383,
+                        "descarga": "https://cuty.io/WURhViSd33",
+                        "online": "https://cuty.io/jxre4SEzkqqt",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 9,
+                        "id": 4413384,
+                        "descarga": "https://cuty.io/nnRobeopc",
+                        "online": "https://cuty.io/NRaX",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    },
+                    {
+                        "episode_number": 10,
+                        "id": 4413390,
+                        "descarga": "https://cuty.io/Fxz5Is",
+                        "online": "https://cuty.io/Fxz5Is",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Loki",
+        "category": "tv",
+        "id": 84958,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 2,
+                "id": 341180,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4447686,
+                        "descarga": "https://cuty.io/VWsJji",
+                        "online": "https://cuty.io/3ZPd1N",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4447779,
+                        "descarga": "https://cuty.io/YDElfq5PhHE",
+                        "online": "https://cuty.io/IZfut0HDQFZ",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gen V",
+        "category": "tv",
+        "id": 205715,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 300323,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3829025,
+                        "descarga": "https://cuty.io/EBz5",
+                        "online": "https://cuty.io/8ojF87",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4591456,
+                        "descarga": "https://cuty.io/xAMj",
+                        "online": "https://cuty.io/Vt2Ei",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4591457,
+                        "descarga": "https://cuty.io/BDRarN4m",
+                        "online": "https://cuty.io/vYPEHXM3R9Uz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4591459,
+                        "descarga": "https://cuty.io/uVhg",
+                        "online": "https://cuty.io/90jsjrKdOV",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 4591460,
+                        "descarga": "https://cuty.io/kAmjOS4Hbp",
+                        "online": "https://cuty.io/SX6vDWI8ul",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hora de Aventura con Fionna & Cake",
+        "category": "tv",
+        "id": 131378,
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 206322,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 4582728,
+                        "descarga": "https://cuty.io/A9944OKJ",
+                        "online": "https://cuty.io/u99e84VUMqgI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4591683,
+                        "descarga": "https://cuty.io/Oi3Ng",
+                        "online": "https://cuty.io/RmvSOW7huw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4591684,
+                        "descarga": "https://cuty.io/Ofs7eZ",
+                        "online": "https://cuty.io/FlXnzvJIYe",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 4,
+                        "id": 4591685,
+                        "descarga": "https://cuty.io/1HBEa",
+                        "online": "https://cuty.io/Gig0CxML4l",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 5,
+                        "id": 4591686,
+                        "descarga": "https://cuty.io/Jbc7RVHav",
+                        "online": "https://cuty.io/QhmhlMRoS",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Star Wars Ahsoka",
         "category": "tv",
         "id": 114461,
@@ -115,74 +346,6 @@
         ]
     },
     {
-        "name": "Loki",
-        "category": "tv",
-        "id": 84958,
-        "statusTv": "NUEVO CAPITULO",
-        "seasons": [
-            {
-                "season_number": 2,
-                "id": 341180,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 4447686,
-                        "descarga": "https://cuty.io/VWsJji",
-                        "online": "https://cuty.io/3ZPd1N",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Gen V",
-        "category": "tv",
-        "id": 205715,
-        "statusTv": "NUEVOS CAPITULOS",
-        "seasons": [
-            {
-                "season_number": 1,
-                "id": 300323,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 3829025,
-                        "descarga": "https://cuty.io/EBz5",
-                        "online": "https://cuty.io/8ojF87",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 2,
-                        "id": 4591456,
-                        "descarga": "https://cuty.io/xAMj",
-                        "online": "https://cuty.io/Vt2Ei",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 3,
-                        "id": 4591457,
-                        "descarga": "https://cuty.io/BDRarN4m",
-                        "online": "https://cuty.io/vYPEHXM3R9Uz",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 4,
-                        "id": 4591459,
-                        "descarga": "https://cuty.io/uVhg",
-                        "online": "https://cuty.io/90jsjrKdOV",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": true
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "The Walking Dead: Daryl Dixon",
         "category": "tv",
         "id": 211684,
@@ -205,84 +368,6 @@
                         "descarga": "https://cuty.io/FQWq8wA83KnE",
                         "online": "https://cuty.io/zpf2OLQULbG",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Futurama",
-        "category": "tv",
-        "id": 615,
-        "statusTv": "NUEVO CAPITULO",
-        "seasons": [
-            {
-                "season_number": 8,
-                "id": 339563,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 4413381,
-                        "descarga": "https://cuty.io/JZgKsYGz",
-                        "online": "https://cuty.io/ycM6ToBt1JDI",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 2,
-                        "id": 4413386,
-                        "descarga": "https://cuty.io/bgvLwnZx",
-                        "online": "https://cuty.io/b3kUSA3L1jC3",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 3,
-                        "id": 4413387,
-                        "descarga": "https://cuty.io/IKs6McVV",
-                        "online": "https://cuty.io/PLjAUQqGf",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 4,
-                        "id": 4413389,
-                        "descarga": "https://cuty.io/ekPF",
-                        "online": "https://cuty.io/yG9Qws2dv6A",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 5,
-                        "id": 4413385,
-                        "descarga": "https://cuty.io/JuHGymx",
-                        "online": "https://cuty.io/a9H7cnqar",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 6,
-                        "id": 4413388,
-                        "descarga": "https://cuty.io/ZIKB",
-                        "online": "https://cuty.io/br9Xn2W8L",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 7,
-                        "id": 4413382,
-                        "descarga": "https://cuty.io/bXJP",
-                        "online": "https://cuty.io/8tusMWuZK9X",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp",
-                        "password": false
-                    },
-                    {
-                        "episode_number": 8,
-                        "id": 4413383,
-                        "descarga": "https://cuty.io/WURhViSd33",
-                        "online": "https://cuty.io/jxre4SEzkqqt",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg",
                         "password": false
                     }
                 ]
@@ -423,51 +508,6 @@
                         "episodes_pack": "1 al 5",
                         "link_episodes_pack": "https://cuty.io/6qLgxUOn",
                         "btn_episodes_pack": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Hora de Aventura con Fionna & Cake",
-        "category": "tv",
-        "id": 131378,
-        "seasons": [
-            {
-                "season_number": 1,
-                "id": 206322,
-                "episodes": [
-                    {
-                        "episode_number": 1,
-                        "id": 4582728,
-                        "descarga": "https://cuty.io/A9944OKJ",
-                        "online": "https://cuty.io/u99e84VUMqgI",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 2,
-                        "id": 4591683,
-                        "descarga": "https://cuty.io/Oi3Ng",
-                        "online": "https://cuty.io/RmvSOW7huw",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 3,
-                        "id": 4591684,
-                        "descarga": "https://cuty.io/Ofs7eZ",
-                        "online": "https://cuty.io/FlXnzvJIYe",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
-                    },
-                    {
-                        "episode_number": 4,
-                        "id": 4591685,
-                        "descarga": "https://cuty.io/1HBEa",
-                        "online": "https://cuty.io/Gig0CxML4l",
-                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
-                        "password": true
                     }
                 ]
             }
