@@ -1,5 +1,43 @@
 [
     {
+        "name": "Papás a la antigua",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino ",
+                        "peso": "710 MB",
+                        "link": "https://cuty.io/yWRdMvw",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.36 GB",
+                        "link": "https://cuty.io/PMcsTjy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2.29 GB",
+                        "link": "https://cuty.io/WVwMHD2trgcy",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "4.9 GB",
+                        "link": "https://cuty.io/8f2Mdfgh92",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/VWcaO7mHj",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 987917
+    },
+    {
         "name": "Gran Turismo: De jugador a corredor",
         "descarga": [
             {
