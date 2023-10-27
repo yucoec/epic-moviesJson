@@ -1,4 +1,43 @@
 [
+     
+{
+        "name": "Five Nights at Freddy's",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino ",
+                        "peso": "703 MB",
+                        "link": "https://cuty.io/oGp6Qi1z",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.26 GB",
+                        "link": "https://cuty.io/4HGD",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "2. 5GB",
+                        "link": "https://cuty.io/WaX4OnmkOk",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080p Latino - Ingles",
+                        "peso": "6.37 GB",
+                        "link": "https://cuty.io/DWCNxV3s5vI",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/jpwll",
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 507089
+    },
     {
         "name": "Papás a la antigua",
         "descarga": [
