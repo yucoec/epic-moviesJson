@@ -35,7 +35,43 @@
                 ]
             }
         ]
-    },: 4,
+    },
+{
+        "name": "Gen V",
+        "category": "tv",
+        "id": 205715,
+        "statusTv": "NUEVO CAPITULO",
+        "seasons": [
+            {
+                "season_number": 1,
+                "id": 300323,
+                "episodes": [
+                    {
+                        "episode_number": 1,
+                        "id": 3829025,
+                        "descarga": "https://cuty.io/EBz5",
+                        "online": "https://cuty.io/8ojF87",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 2,
+                        "id": 4591456,
+                        "descarga": "https://cuty.io/xAMj",
+                        "online": "https://cuty.io/Vt2Ei",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 3,
+                        "id": 4591457,
+                        "descarga": "https://cuty.io/BDRarN4m",
+                        "online": "https://cuty.io/vYPEHXM3R9Uz",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
+                        "password": true
+                    },
+                    {
+                        "episode_number": 4,
                         "id": 4591459,
                         "descarga": "https://cuty.io/uVhg",
                         "online": "https://cuty.io/90jsjrKdOV",
@@ -57,6 +93,7 @@
                         "online": "https://cuty.io/KbgOp1b6RX",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true
+                    }
                     }, 
 {
                         "episode_number": 7,
