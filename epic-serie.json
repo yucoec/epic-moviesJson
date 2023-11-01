@@ -1,40 +1,41 @@
-[
 {
-        "name": "Gen V",
+        "name": "Rick y Morty",
         "category": "tv",
-        "id": 205715,
+        "id": 60625,
         "statusTv": "NUEVO CAPITULO",
         "seasons": [
             {
-                "season_number": 1,
-                "id": 300323,
+                "season_number": 7,
+                "id": 354041,
                 "episodes": [
                     {
                         "episode_number": 1,
-                        "id": 3829025,
-                        "descarga": "https://cuty.io/EBz5",
-                        "online": "https://cuty.io/8ojF87",
+                        "id": 4678377,
+                        "descarga": "https://cuty.io/cnojym",
+                        "online": "https://cuty.io/ZwBnl",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true
                     },
                     {
                         "episode_number": 2,
-                        "id": 4591456,
-                        "descarga": "https://cuty.io/xAMj",
-                        "online": "https://cuty.io/Vt2Ei",
+                        "id": 4694201,
+                        "descarga": "https://cuty.io/Xh511VQD",
+                        "online": "https://cuty.io/gJ23FH1mYO6",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true
                     },
                     {
                         "episode_number": 3,
-                        "id": 4591457,
-                        "descarga": "https://cuty.io/BDRarN4m",
-                        "online": "https://cuty.io/vYPEHXM3R9Uz",
+                        "id": 4694202,
+                        "descarga": "https://cuty.io/lLec4KQ5ijn",
+                        "online": "https://cuty.io/0spDS3kbup",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp",
                         "password": true
-                    },
-                    {
-                        "episode_number": 4,
+                    }
+                ]
+            }
+        ]
+    },: 4,
                         "id": 4591459,
                         "descarga": "https://cuty.io/uVhg",
                         "online": "https://cuty.io/90jsjrKdOV",
