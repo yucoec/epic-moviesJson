@@ -1,5 +1,45 @@
 [
     {
+        "name": "Napoleón",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "1.23 GB",
+                        "link": "https://cuty.io/3UTC6oXa",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/mG0XnV12ds9B",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 753342
+    },
+    {
+        "name": "The Marvels",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "CAM",
+                        "peso": "1.87 GB",
+                        "link": "https://cuty.io/0F1UCuv1UAx",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/cccjxyW",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 609681
+    },
+    {
         "name": "Oppenheimer",
         "descarga": [
             {
