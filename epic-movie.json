@@ -1,4 +1,42 @@
 [
+        {
+        "name": "Radical",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "781 MB",
+                        "link": "https://cuty.io/qGlVWsOv",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino",
+                        "peso": "1.37 GB",
+                        "link": "https://cuty.io/GDPxRZXlZ1B",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino",
+                        "peso": "2.37 GB",
+                        "link": "https://cuty.io/Vs5pkzbmTT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080P Latino",
+                        "peso": "8.19 GB",
+                        "link": "https://cuty.io/bG3up87ty",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/EdVVcNwEFtOg",
+        "calidad": "WEB-DL 1080P",
+        "category": "movie",
+        "password": true,
+        "id": 1058694
+    },
     {
         "name": "Napoleón",
         "descarga": [
