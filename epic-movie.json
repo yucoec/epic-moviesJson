@@ -1,5 +1,5 @@
 [
-  {
+    {
         "name": "Argylle: Agente secreto",
         "descarga": [
             {
@@ -19,7 +19,7 @@
         "password": false,
         "id": 848538
     },
-                {
+    {
         "name": "¡Patos!",
         "descarga": [
             {
@@ -48,12 +48,12 @@
                         "link": "https://cuty.io/maja87ft0",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     },
-{
+                    {
                         "qualityName": "WEB-DL 4k Latino - Ingles",
                         "peso": "12.5 GB",
                         "link": "https://cuty.io/ZKJMG",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    } 
+                    }
                 ]
             }
         ],
@@ -63,7 +63,7 @@
         "password": true,
         "id": 940551
     },
-            {
+    {
         "name": "Aquaman y el reino perdido",
         "descarga": [
             {
@@ -92,12 +92,12 @@
                         "link": "https://cuty.io/bpvhxtk4Eg",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
                     },
-{
+                    {
                         "qualityName": "WEB-DL 4k Latino - Ingles",
                         "peso": "21.93 GB",
                         "link": "https://cuty.io/FSplKw",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                    } 
+                    }
                 ]
             }
         ],
@@ -107,7 +107,7 @@
         "password": true,
         "id": 572802
     },
-        {
+    {
         "name": "Radical",
         "descarga": [
             {
@@ -151,18 +151,42 @@
             {
                 "quality": [
                     {
-                        "qualityName": "CAM",
-                        "peso": "1.23 GB",
-                        "link": "https://cuty.io/3UTC6oXa",
+                        "qualityName": "DVD RIP Latino",
+                        "peso": "806 MB",
+                        "link": "https://cuty.io/xueUFCL",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "720p Latino - Ingles",
+                        "peso": "1.41 GB",
+                        "link": "https://cuty.io/2cYBT7",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "1080p Latino - Ingles",
+                        "peso": "5.04 GB",
+                        "link": "https://cuty.io/HDBJ9sMwOo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 1080P Latino - Ingles",
+                        "peso": "13.33 GB",
+                        "link": "https://cuty.io/tCTj",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    },
+                    {
+                        "qualityName": "WEB-DL 4k Latino - Ingles",
+                        "peso": "27.6 GB",
+                        "link": "https://cuty.io/qqnWBWoCZ6P",
                         "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
                     }
                 ]
             }
         ],
-        "online": "https://cuty.io/mG0XnV12ds9B",
-        "calidad": "CAM",
+        "online": "https://cuty.io/RIsd1vufur5",
+        "calidad": "4K",
         "category": "movie",
-        "password": false,
+        "password": true,
         "id": 753342
     },
     {
