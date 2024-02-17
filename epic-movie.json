@@ -1,4 +1,24 @@
 [
+         {
+        "name": "Madame Web",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "Cam Latino ",
+                        "peso": "3.34 GB",
+                        "link": "https://cuty.io/LZIZak",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/ryHm",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 634492
+    },
      {
         "name": "Bob Marley: La leyenda",
         "descarga": [
