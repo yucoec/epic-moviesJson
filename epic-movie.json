@@ -1,4 +1,24 @@
 [
+     {
+        "name": "Bob Marley: La leyenda",
+        "descarga": [
+            {
+                "quality": [
+                    {
+                        "qualityName": "Cam Latino ",
+                        "peso": "2.79 GB",
+                        "link": "https://cuty.io/J84VS",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                    }
+                ]
+            }
+        ],
+        "online": "https://cuty.io/LlLv87u6ve",
+        "calidad": "CAM",
+        "category": "movie",
+        "password": false,
+        "id": 802219
+    },
     {
         "name": "Argylle: Agente secreto",
         "descarga": [
