@@ -1,4 +1,29 @@
-[    
+[  
+  {
+    "name": "Una película de Minecraft",
+    "descarga": [
+        {
+            "quality": [
+                {
+                    "qualityName": "HDTS 1080p",
+                    "peso": "8.19 GB",
+                    "link": "https://cuty.io/2paY",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                },
+                {
+                    "qualityName": "Cam",
+                    "peso": "778 MB",
+                    "link": "https://cuty.io/3cOhM",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/uptobox.svg"
+                }
+            ]
+        }
+    ],
+    "calidad": "HDTS",
+    "category": "movie",
+    "password": false,
+    "id": 950387
+  },
   {
         "name": "Borderlands",
         "descarga": [
