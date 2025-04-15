@@ -19,6 +19,7 @@
             ]
         }
     ],
+    "online": false,
     "calidad": "HDTS",
     "category": "movie",
     "password": false,
