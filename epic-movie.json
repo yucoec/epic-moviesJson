@@ -1,4 +1,41 @@
-[  
+[ 
+  {
+    "name": "G20",
+    "descarga": [
+        {
+            "quality": [
+                {
+                    "qualityName": "WEB-DL 4k DV HDR",
+                    "peso": "12.2 GB",
+                    "link": "https://cuty.io/yuc4Aj7WqDeH",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                },
+                {
+                    "qualityName": "WEB-DL 1080p",
+                    "peso": "6.7 GB",
+                    "link": "https://cuty.io/zfLxzXDZ",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                },
+                {
+                    "qualityName": "1080p",
+                    "peso": "2.08 GB",
+                    "link": "https://cuty.io/Bw7rUG44g",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                },
+                {
+                    "qualityName": "720p",
+                    "peso": "1.15 GB",
+                    "link": "https://cuty.io/vl8iaVWU",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                }
+            ]
+        }
+    ],
+    "calidad": "4K",
+    "category": "movie",
+    "password": true,
+    "id": 1045938
+  },
   {
     "name": "Una película de Minecraft",
     "descarga": [
