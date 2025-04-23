@@ -1,5 +1,42 @@
 [ 
   {
+        "name": "Implacable",
+        "descarga": [
+            {
+                "quality": [
+{
+                        "qualityName": "WEB-DL 180p",
+                        "peso": "5.81 GB",
+                        "link": "https://cuty.io/0n8EKu40AkT",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+{
+                        "qualityName": "1080p",
+                        "peso": "2.48 GB",
+                        "link": "https://cuty.io/8N6fo",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+{
+                        "qualityName": "720p",
+                        "peso": "1.23 GB",
+                        "link": "https://cuty.io/p953n",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    },
+{
+                        "qualityName": "DVD Rip",
+                        "peso": "658 MB",
+                        "link": "https://cuty.io/sN0pmfDirv",
+                        "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                    }
+                ]
+            }
+        ], 
+        "calidad": "WEB-DL 1080p",
+        "category": "movie",
+        "password": true,
+        "id": 974453
+    },
+  {
     "name": "Capitán América: Un nuevo mundo",
     "descarga": [
         {
