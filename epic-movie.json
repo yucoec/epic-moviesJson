@@ -1,5 +1,24 @@
 [ 
   {
+    "name": "Thunderbolts*",
+    "descarga": [
+        {
+            "quality": [
+                {
+                    "qualityName": "HDTS 1080p",
+                    "peso": "3.30 GB",
+                    "link": "https://cuty.io/zSdSVb",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
+                }
+            ]
+        }
+    ],
+    "calidad": "HDTS 1080p",
+    "category": "movie",
+    "password": false,
+    "id": 986056
+},
+  {
     "name": "Drop: Amenaza anónima",
     "descarga": [
         {
