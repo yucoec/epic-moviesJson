@@ -1,5 +1,30 @@
 [ 
   {
+    "name": "Blanca Nieves",
+    "descarga": [
+        {
+            "quality": [
+                {
+                    "qualityName": "WEB-DL 1080p",
+                    "peso": "8.53 GB",
+                    "link": "https://cuty.io/JB2EgwM",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                },
+                {
+                    "qualityName": "720p",
+                    "peso": "1.33 GB",
+                    "link": "https://cuty.io/CRszxwvo",
+                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/botnMediaFire.webp"
+                }
+            ]
+        }
+    ],
+    "calidad": "WEB-DL 1080p",
+    "category": "movie",
+    "password": true,
+    "id": 447273
+},
+  {
     "name": "Estragos",
     "descarga": [
         {
