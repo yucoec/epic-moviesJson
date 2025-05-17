@@ -1,20 +1,5 @@
 [ 
   {
-    "name": "Destino final lazos de sangre",
-    "descarga": [
-                {
-                    "qualityName": "HDTS",
-                    "peso": "5.29 GB",
-                    "link": "https://cuty.io/skaJ0OQBOvu",
-                    "btn": "https://raw.githubusercontent.com/yucoec/epic-moviesJson/main/photos/1fich.webp"
-                }
-    ],
-    "calidad": "HDTS",
-    "category": "movie",
-    "password": false,
-    "id": 574475
-},
-  {
     "name": "Una película de Minecraft",
     "descarga": [
         {
